@@ -249,7 +249,3 @@ python test.py
 
 ---
 
-## License
-
-No license file is included yet. Add one (e.g. MIT) if you want others to reuse
-this project.
