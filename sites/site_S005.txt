@@ -1,0 +1,38 @@
+==============================================================
+ SITE S005 - Yelahanka, Bengaluru
+==============================================================
+
+OWNED EQUIPMENT (product id | qty | eng h | idle h | downtime h)
+--------------------------------------------------------------
+  313-GC         x2     4.4     1.5      18.1  <-- under-used
+  D11            x2     9.9     5.0       9.1  <-- under-used
+  120            x2     7.9     0.2      15.9  <-- under-used
+  MD6250         x4     3.2     0.1      20.7  <-- under-used
+  8750           x3     6.4    10.7       6.9  <-- under-used
+
+LENT OUT TO OTHER SITES (owner-approved, still owned here)
+--------------------------------------------------------------
+  313-GC         -> S003 (Whitefield, Bengaluru) | avail 17.5 h | travel 0.6 h
+  313-GC         -> S004 (Electronic City, Bengaluru) | avail 17.4 h | travel 0.7 h
+  D11            -> S003 (Whitefield, Bengaluru) | avail 8.5 h | travel 0.6 h
+  D11            -> S004 (Electronic City, Bengaluru) | avail 8.4 h | travel 0.7 h
+  120            -> S003 (Whitefield, Bengaluru) | avail 15.3 h | travel 0.6 h
+  120            -> S004 (Electronic City, Bengaluru) | avail 15.2 h | travel 0.7 h
+  MD6250         -> S003 (Whitefield, Bengaluru) | avail 20.1 h | travel 0.6 h
+  MD6250         -> S004 (Electronic City, Bengaluru) | avail 20.0 h | travel 0.7 h
+  8750           -> S003 (Whitefield, Bengaluru) | avail 6.3 h | travel 0.6 h
+  8750           -> S004 (Electronic City, Bengaluru) | avail 6.2 h | travel 0.7 h
+
+AVAILABLE TO BORROW FROM NEARBY SITES
+  (available hours = owner downtime - travel time)
+--------------------------------------------------------------
+  239D3          x3   from S003 (Whitefield, Bengaluru) | available 16.0 h | travel 0.6 h | owner downtime 16.6 h
+  18             x4   from S003 (Whitefield, Bengaluru) | available 5.9 h | travel 0.6 h | owner downtime 6.5 h
+  815            x1   from S003 (Whitefield, Bengaluru) | available 8.6 h | travel 0.6 h | owner downtime 9.2 h
+  785            x1   from S003 (Whitefield, Bengaluru) | available 6.1 h | travel 0.6 h | owner downtime 6.7 h
+  313-GC         x4   from S003 (Whitefield, Bengaluru) | available 6.4 h | travel 0.6 h | owner downtime 7.0 h
+  120            x1   from S004 (Electronic City, Bengaluru) | available 16.2 h | travel 0.7 h | owner downtime 16.9 h
+  MD6200         x3   from S004 (Electronic City, Bengaluru) | available 6.3 h | travel 0.7 h | owner downtime 7.0 h
+  18             x4   from S004 (Electronic City, Bengaluru) | available 16.2 h | travel 0.7 h | owner downtime 16.9 h
+  8750           x2   from S004 (Electronic City, Bengaluru) | available 5.8 h | travel 0.7 h | owner downtime 6.5 h
+  216B3          x2   from S004 (Electronic City, Bengaluru) | available 7.7 h | travel 0.7 h | owner downtime 8.4 h

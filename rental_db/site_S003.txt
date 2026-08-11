@@ -1,0 +1,8 @@
+# Site S003 (Whitefield, Bengaluru) equipment inventory
+# Edit this file by adding/removing a line: PRODUCT_ID,QTY
+815-U03,1
+330-UHD-U01,1
+MD6250-U04,1
+239D3-U03,1
+D3-U03,1
+216B3-U03,1

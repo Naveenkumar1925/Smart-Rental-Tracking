@@ -1,0 +1,29 @@
+============================================================
+     VEHICLES TO STOCK UP  (Smart Rental demand forecast)
+============================================================
+ Engine     : heuristic
+ Weather    : ADVERSE (adverse cues=16, favorable=2) -> demand multiplier 0.7
+ Plans      : construction 60% / mining 40%, scale signals=19
+ Comparison : Plans set per-category need; weather (ADVERSE) scales it by 0.7x for the near term.
+------------------------------------------------------------
+ CATEGORY            MODEL     UNITS  PRIORITY
+------------------------------------------------------------
+ Drill               MD6250       10  high
+ Off-Highway Truck   770           6  high
+ Grader              120           5  medium
+ Compactor           CB10          3  medium
+ Excavator           320           3  medium
+ Skid Steer Loader   216B3         2  low
+ Dozer               D5            2  low
+ Dragline            8200          2  low
+------------------------------------------------------------
+ REASONS
+  - Drill x10: plan signals ['drill', 'exploration', 'mineral']; mining emphasis; weather ADVERSE
+  - Off-Highway Truck x6: plan signals ['mine']; mining emphasis; weather ADVERSE
+  - Grader x5: plan signals ['road']; construction emphasis; weather ADVERSE
+  - Compactor x3: plan signals ['road']; construction emphasis; weather ADVERSE
+  - Excavator x3: plan signals ['foundation', 'infrastructure']; construction/mining emphasis; weather ADVERSE
+  - Skid Steer Loader x2: plan signals baseline; construction emphasis; weather ADVERSE
+  - Dozer x2: plan signals baseline; construction emphasis; weather ADVERSE
+  - Dragline x2: plan signals baseline; mining emphasis; weather ADVERSE
+============================================================

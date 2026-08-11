@@ -1,0 +1,8 @@
+# Site S004 (Electronic City, Bengaluru) equipment inventory
+# Edit this file by adding/removing a line: PRODUCT_ID,QTY
+330-UHD-U02,1
+D11-U01,1
+785-U01,1
+239D3-U04,1
+18-U02,1
+120-U01,1

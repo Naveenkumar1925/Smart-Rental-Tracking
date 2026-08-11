@@ -1,0 +1,2 @@
+[2026-08-06T11:15:59] engine=heuristic | top: Drill x10, Off-Highway Truck x6, Grader x5, Compactor x3
+[2026-08-06T11:29:48] engine=heuristic | top: Drill x10, Off-Highway Truck x6, Grader x5, Compactor x3

@@ -1,0 +1,36 @@
+category,name,url,city_region,type,scrape_usability,notes
+Weather,Open-Meteo Forecast API,https://open-meteo.com/,Global,Forecast API (JSON),Best,No API key; free up to 10000 calls/day; endpoint api.open-meteo.com/v1/forecast; 16-day forecast
+Weather,Open-Meteo Air Quality API,https://air-quality-api.open-meteo.com/,Global,API (JSON),Best,Free no-key air quality companion to Open-Meteo
+Weather,OpenWeatherMap,https://openweathermap.org/,Global,Forecast API (JSON),Good,Free API key required; 5-day/3-hour forecast on free tier
+Weather,WeatherAPI,https://www.weatherapi.com/,Global,Forecast API (JSON),Good,Free API key required
+Weather,Visual Crossing,https://www.visualcrossing.com/,Global,Forecast+History API,Good,Free API key required; strong historical archive
+Weather,Weatherbit,https://www.weatherbit.io/,Global,Forecast API (JSON),Good,Free API key required
+Weather,Tomorrow.io,https://www.tomorrow.io/,Global,Forecast API (JSON),Good,Free API key required
+Weather,IMD Mausam (national),https://mausam.imd.gov.in/,India,Govt HTML,Medium,Official India forecasts; no open API; HTML scraping is brittle
+Weather,IMD Chennai (RMC),https://mausam.imd.gov.in/chennai/,Chennai,Govt HTML,Medium,7-day forecast + warnings + rainfall
+Weather,IMD Chennai Urban Services,https://mausam.imd.gov.in/chennaiums/,Chennai,Govt HTML,Medium,City urban meteorological services
+Weather,IMD Bengaluru (Met Centre),https://mausam.imd.gov.in/bengaluru/,Bengaluru,Govt HTML,Medium,City forecast + warnings
+Weather,IMD Bengaluru Urban Services,https://mausam.imd.gov.in/bengalurums/,Bengaluru,Govt HTML,Medium,City urban meteorological services
+Weather,IMD Pune,https://www.imdpune.gov.in/,India,Govt HTML,Medium,Climate + long-range/monsoon outlook
+Construction,CMDA,https://www.cmdachennai.gov.in/,Chennai,Govt HTML/PDF,Medium,Metropolitan planning authority; master plan + planning permissions
+Construction,CMDA Third Master Plan 2027-2046,https://www.cmavision.in/,Chennai,Govt HTML,Medium,Future master plan vision portal
+Construction,TN Single Window Planning Permission,https://www.onlineppa.tn.gov.in/,Chennai/TN,Govt portal,Medium,Building/layout approval data
+Construction,Greater Chennai Corporation,https://chennaicorporation.gov.in/gcc/,Chennai,Govt HTML,Medium,City civic body; works + services
+Construction,Chennai Metro Rail (CMRL),https://chennaimetrorail.org/,Chennai,Govt HTML,Medium,Metro planning + project locations
+Construction,SIPCOT,https://sipcot.tn.gov.in/,TN,Govt HTML,Medium,Industrial estates/parks locations
+Construction,Chennai Metro Water (CMWSSB),https://chennaimetrowater.tn.gov.in/,Chennai,Govt HTML,Medium,Water/sewerage infrastructure projects
+Construction,TNRERA,https://rera.tn.gov.in/,Chennai/TN,Govt portal,Medium,Registered real-estate projects + locations + timelines
+Construction,TN Urban Habitat Development Board,https://www.tnuhdb.tn.gov.in/,Chennai/TN,Govt HTML,Medium,Housing/slum redevelopment schemes
+Construction,BDA (Bangalore Development Authority),https://bdabangalore.org/,Bengaluru,Govt HTML,Medium,Master plan + layouts; RMP 2041 in progress
+Construction,BMRDA,https://bmrda.karnataka.gov.in/english,Bengaluru,Govt HTML,Medium,Region planning + local planning areas + townships
+Construction,KIADB,http://kiadb.in/,Karnataka,Govt HTML,Medium,Industrial areas development locations
+Construction,BMRCL / Namma Metro,https://bmrc.co.in/,Bengaluru,Govt HTML,Medium,Metro planning + project locations
+Mining,TN Dept of Geology & Mining,https://tnmines.tn.gov.in/,Chennai/TN,Govt HTML,Medium,State mining department; policy + administration
+Mining,TN Mineral Management System (MIMAS),https://mimas.tn.gov.in/dist/,TN,Govt portal (data),Good,District-wise lease/quarry data - structured
+Mining,Karnataka Dept of Mines & Geology,https://dmg.karnataka.gov.in/en,Bengaluru/KA,Govt HTML,Medium,State mining department; leases + administration
+Mining,Ministry of Mines,https://mines.gov.in/,India,Govt HTML/PDF,Medium,National mining policy + notifications
+Mining,Indian Bureau of Mines,https://ibm.gov.in/,India,Govt HTML,Medium,Mineral statistics + mine data
+Mining,Geological Survey of India,https://gsi.gov.in/,India,Govt HTML,Medium,Geoscience data + maps
+Mining,National Mineral Exploration Trust,https://nmet.gov.in/,India,Govt HTML,Medium,Exploration projects + links to state depts
+Mining,National Geoscience Data Repository (NGDR),https://geodataindia.gov.in/,India,GIS data portal,Good,GIS-compatible mineral exploration data
+Mining,Open Government Data - IBM datasets,https://www.data.gov.in/,India,Open data (CSV/API),Good,Downloadable mining datasets

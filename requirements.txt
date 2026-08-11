@@ -1,0 +1,16 @@
+# Core / data
+pandas
+numpy
+requests
+beautifulsoup4
+flask
+
+# Computer vision (damage detection + QR)
+opencv-python
+torch
+torchvision
+rembg
+Pillow
+
+# Alerts (SMS)
+twilio

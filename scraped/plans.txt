@@ -1,0 +1,1030 @@
+# SCRAPE LABEL: plans
+# SOURCES: 22 (pages fetched: 14, notes-only: 8)
+# CHARS: 63419
+
+===== SOURCE [plans] CMDA https://www.cmdachennai.gov.in/ =====
+NAME: CMDA | CATEGORY: Construction | TYPE: Govt HTML/PDF | USABILITY: Medium
+NOTES: Metropolitan planning authority; master plan + planning permissions
+TITLE: Chennai Metropolitan Development Authority, Government of Tamilnadu, India
+DESCRIPTION: Official website of Chennai Metropolitan Development Authority (CMDA)
+Hiring of Urban Planners on a contract basis in CMDA
+Publication of Draft Scheme for Parvatharajapuram and Kuthambakkam Land Pooling Area Development Schemes
+Clarification on Environmental Clearance and Plan Approval â Pallikaranai RAMSAR Site, Chennai
+Enlarge the map
+Chennai, the capital City of Tamil Nadu, is the fourth largest Metropolitan City in India.
+The expanded Chennai Metropolitan Area (CMA) comprises the Greater Chennai Corporation, Avadi Corporation, Tambaram Corporation, Kancheepuram Corporation, 12 Municipalities, 13 Town Panchayats, 1 Special Grade Town Panchayat, and 22 Panchayat Unions (comprised of 1321 villages). The present extent of CMA is 5904 Sq.km. The setting of Chennai is presented in the Figure .
+The expanded CMA falls in five Districts of Tamil Nadu State, viz. Chennai District, parts of Thiruvallur District, Kancheepuram District, Chengalpattu District, and part of Arakkonam Taluk of Ranipet District.
+CMA comprised of Greater Chennai Corporation, Avadi Corporation, Tambaram Corporation, 5 Municipalities & 3 Town Panchayats and 10 Panchayat Unions (comprising of 179 villages) with a total extent of 1189 sq.km. under Chennai District and parts of Thiruvallur, Kancheepuram. In October 2022, the jurisdiction of CMA was expanded by inclusion of contiguous areas in 1225 villages.
+The list of Local Bodies present in the erstwhile CMA and the expanded CMA is given here.
+Quick Links
+Koyambedu Market Management Committee Website
+Digitization of Planning Permission Records for the Periods 1989â2006, 2008-2021
+Regularisation of Unapproved Plots/Layouts-2017
+Registered Professionals / Developers Details
+Masterplan Landuse Maps
+Online Payment for Planning Permission
+List of Development Rights Certificate (DRC)
+List of Special Development Rights Certificate
+HIGHLIGHTS
+The Hon'ble Minister for HR&CE and Chairman of CMDA inaugurated the KCBT mobile application on 21st January 2025. The public can now download the KCBT mobile app through the Google Play Store or Apple App Store for easy access and use
+eOffice - File Management System - User Manual
+User Manual Handbook on eOffice Implementation eOffice Self Learning Videos
+Useful information for Planners and Engineers
+Hand book on Land Administration Revenue Manual
+EVENTS
+Inspection of the New Chengalpattu Bus Terminus, constructed by CMDA at a cost of â¹131 crore, was carried out on 24.06.2026
+Appointment orders were distributed to Assistant Engineers and Junior Planners selected through the Tamil Nadu Public Service Commission (TNPSC) for service in CMDA on 24.06.2026
+Consultation meeting held with representatives of building associations on 06.06.2026 to further strengthen the Online Building Plan System and expedite the issuance of planning permissions
+On 05.06.2026, the Honâble Minister for Housing and Urban Development, visited the photo gallery set up at the CMDA Office
+A review meeting on the various development projects undertaken by CMDA was conducted on 05.06.2026
+Tamil Nadu Government Portal
+National Voters Service Portal
+eServices Portal
+Registration Department Portal
+Main Bharat Hoon Campaign
+
+===== SOURCE [plans] CMDA Third Master Plan 2027-2046 https://www.cmavision.in/ =====
+NAME: CMDA Third Master Plan 2027-2046 | CATEGORY: Construction | TYPE: Govt HTML | USABILITY: Medium
+NOTES: Future master plan vision portal
+
+
+===== SOURCE [plans] TN Single Window Planning Permission https://www.onlineppa.tn.gov.in/ =====
+NAME: TN Single Window Planning Permission | CATEGORY: Construction | TYPE: Govt portal | USABILITY: Medium
+NOTES: Building/layout approval data
+TITLE: Welcome to Tamilnadu Single Window Portal for Planning Permission :: Tamilnadu Single Window Portal for Planning Permission
+Top Header
+Login
+Contact Us
+FAQ
+Sitemap
+LAYOUT APPLICATION
+Tamilnadu Single Window Portal for Planning Permission Online application submission for Layout Application.
+BUILDING PLAN APPLICATION
+Tamilnadu Single Window Portal for Planning Permission Online application submission for Building Plan Application.
+Masterplan Landuse Maps
+Land Use Information System for CMA
+Online Payment for Planning Permission
+Registered Professionals / Developers Details
+Regularisation of Educational Institutional Buildings (G.O.76)
+Regularisation of Unapproved Layouts
+Regularisation of Single Plot Unapproved Layouts
+Latest News
+14 May 2022
+07 Apr 2022
+15 Aug 2021
+22 Aug 2020
+Events
+Tmt M. Lakshmi I.A.S Chief Executive Officer, CMDA hoisted the national flag at CMDA building during the 75th Independence Day function on 15.08.2021
+More..
+Dr. D.Karthikeyan I.A.S Member-Secretary, CMDA hoisted the national flag at CMDA building during the 74th Independence Day function on 15.08.2020
+08 Aug 2021
+Thiru Shunchonngam Jatak Chiru I.A.S Member Secretary, CMDA hoisted the national flag at CMDA building during the 72nd Republic Day function on 26.01.2021
+26 Jan 2021
+National Voters' Day 2021 Pledge taken on 25.01.2021 in CMDA
+25 Jan 2021
+Dr. D.Karthikeyan I.A.S Member Secretary, CMDA hoisted the national flag at CMDA building during the 71st Republic Day function on 26.01.2020
+26 Jan 2020
+Highlights
+Tamil Nadu Combined Development and Building Rules, 2019
+Appeal Rejected (G.O.'s) List
+Abstract of Survey conducted in T.Nagar during August 2007 as per the decision of the Monitoring Committee
+Operational Guidelines under Rule 22 of Regularisation of Unapproved Plots and Layouts Rules - 2017
+Amendments to the Tamil Nadu Combined Development and Building Rules, 2019
+Report of the State Level Committee on Road Connectivity and Traffic Improvements in Chennai
+Footer 1
+Photo Gallery
+Footer 2
+Government Orders
+Development Regulations
+TNT&CP Act
+Second, Third and Fourth floor, E & C Market Road, Koyambedu, Chennai - 600 107.
+ctcptn@tn.gov.in
+Footer Bottom
+About
+Terms & Conditions
+Privacy Policy
+Copyright ©2024 The Department of Housing and Urban Development of state of Tamil Nadu
+(Monday to Friday 10.00A.M to 5.45P.M excluding Government Holidays) For Directorate of Town and Country Planning (DTCP) queries, Helpline No: 044-29585247 , Email ID: support_swp.dtcp@tn.gov.in For Directorate of Town Panchayats (DTP) queries, Helpdesk Email ID: helpdesk.swp.dtp@gmail.com For Corporation/Municipality (CMA) queries, Helpdesk Email ID: swpcmahelpdesk@gmail.com
+
+===== SOURCE [plans] Greater Chennai Corporation https://chennaicorporation.gov.in/gcc/ =====
+NAME: Greater Chennai Corporation | CATEGORY: Construction | TYPE: Govt HTML | USABILITY: Medium
+NOTES: City civic body; works + services
+TITLE: Welcome to Greater Chennai Corporation
+Assistive Technologies
+Assistive Technologies are meant to cater to the needs of people with various impairments like Visual, Hearing, Mobility, and Learning impairment. An assistive technology helps differently abled people in rendering or viewing a webpage. Screen Readers are assistive devices that convert text into synthesized speech to facilitate visually impaired users to listen to and comprehend the content on a webpage. Following URL can be visited to get more information about assistive technologies and screen readers:
+http://www.freedomscientific.com
+http://www.gwmicro.com
+http://www.spectronicsinoz.com
+Screen Reader Access
+The Guidelines for Indian Government Websites website complies with World Wide Web Consortium (W3C) Web Content Accessibility Guidelines (WCAG) 2.0 level AA. This will enable people with visual impairments access the website using assistive technologies, such as screen readers. The information of the website is accessible with different screen readers, such as JAWS, NVDA, SAFA, Supernova and Window-Eyes. Following table lists the information about different screen readers: Information related to the various screen readers
+Screen Reader
+Website
+Free / Commercial
+Non Visual Desktop Access (NVDA)
+http://www.nvda-project.org/
+Free
+System Access To Go
+http://www.satogo.com/
+Hal
+http://www.yourdolphin.co.uk/productdetail.asp?id=5
+Commercial
+JAWS
+http://www.freedomscientific.com/jaws-hq.asp
+Supernova
+http://www.yourdolphin.co.uk/productdetail.asp?id=1
+Window-Eyes
+http://www.gwmicro.com/Window-Eyes/
+Home
+About GCC
+Who is Who
+Council
+Departments
+Online Services
+Zones
+Tenders
+Feedback
+Help
+COMPLAINT NUMBER - 1913
+Site map
+To pay Property Tax / Profession Tax / Company Tax - To click here To book GCC Community Hall - To click here
+Click Here அண்ணாநகர் மண்டலத்தில் மேற்கொள்ளப்பட்டு வரும் வளர்ச்சித் திட்டப் பணிகளை மத்திய வட்டார துணை ஆணையாளர் திரு.எச்.ஆர்.கௌஷிக், இ.ஆ.ப., அவர்கள் இன்று பார்வையிட்டு ஆய்வு செய்தார்.
+அண்ணாநகர் மண்டலத்தில் மேற்கொள்ளப்பட்டு வரும் வளர்ச்சித் திட்டப் பணிகளை மத்திய வட்டார துணை ஆணையாளர் திரு.எச்.ஆர்.கௌஷிக், இ.ஆ.ப., அவர்கள் இன்று பார்வையிட்டு ஆய்வு செய்தார்.
+Click Here பெருநகர சென்னை மாநகராட்சிப் பகுதிகளில் உள்ள நூலகத்துடன் கூடிய முதல்வர் படைப்பகங்களின் செயல்பாட்டினை மேம்படுத்துவது குறித்து அலுவலர்களுடனான ஆலோசனைக் கூட்டம் மாநகராட்சி ஆணையாளர் டாக்டர் ஜி. எஸ். சமீரன், இ.ஆ.ப., அவர்கள் தலைமையில் இன்று நடைபெற்றது.
+பெருநகர சென்னை மாநகராட்சிப் பகுதிகளில் உள்ள நூலகத்துடன் கூடிய முதல்வர் படைப்பகங்களின் செயல்பாட்டினை மேம்படுத்துவது குறித்து அலுவலர்களுடனான ஆலோசனைக் கூட்டம் மாநகராட்சி ஆணையாளர் டாக்டர் ஜி. எஸ். சமீரன், இ.ஆ.ப., அவர்கள் தலைமையில் இன்று நடைபெற்றது.
+Click Here சோழிங்கநல்லூர் மண்டலம், எழில் நகரில் உள்ள சென்னை நடுநிலைப்பள்ளி வளாகத்தில் "பள்ளிகளின் மாணவர்கள் மற்றும் பள்ளிக்குச் செல்லா குழந்தைகள் மீண்டும் பள்ளியில் சேருவதற்காக அத்தியாவசிய சான்றிதழ்கள் வழங்கும் சிறப்பு முகாம் இன்று நடைபெற்றது.
+சோழிங்கநல்லூர் மண்டலம், எழில் நகரில் உள்ள சென்னை நடுநிலைப்பள்ளி வளாகத்தில் "பள்ளிகளின் மாணவர்கள் மற்றும் பள்ளிக்குச் செல்லா குழந்தைகள் மீண்டும் பள்ளியில் சேருவதற்காக அத்தியாவசிய சான்றிதழ்கள் வழங்கும் சிறப்பு முகாம் இன்று நடைபெற்றது.
+Click Here பெருநகர சென்னை மாநகராட்சியில் சொத்து வரி செலுத்த தவறிய உரிமையாளர்கள் அதிக பட்ச நிலுவை தொகை வைத்துள்ள 100 (TOP 100) சொத்து உரிமையாளர்களின் விவரப் பட்டியல் மாநகராட்சி வலைதளத்தில் (GCC Website) வெளியிடப்பட்டுள்ளது. மாநகராட்சி ஆணையாளர் டாக்டர் ஜி.எஸ்.சமீரன், இ.ஆ.ப., அவர்கள் தகவல்.
+பெருநகர சென்னை மாநகராட்சியில் சொத்து வரி செலுத்த தவறிய உரிமையாளர்கள் அதிக பட்ச நிலுவை தொகை வைத்துள்ள 100 (TOP 100) சொத்து உரிமையாளர்களின் விவரப் பட்டியல் மாநகராட்சி வலைதளத்தில் (GCC Website) வெளியிடப்பட்டுள்ளது. மாநகராட்சி ஆணையாளர் டாக்டர் ஜி.எஸ்.சமீரன், இ.ஆ.ப., அவர்கள் தகவல்.
+Click Here பெருநகர சென்னை மாநகராட்சி சார்பில் நேற்று (01.08.2026) 50 இடங்களிலிருந்து 32.11 மெட்ரிக் டன் பழைய சோஃபாக்கள், மெத்தைகள் உள்ளிட்ட பழைய பொருட்கள் பெறப்பட்டு, கொடுங்கையூர் எரியூட்டும் நிலையத்திற்கு கொண்டு சென்று விஞ்ஞான முறையில் எரியூட்டி அகற்றப்பட்டது.
+பெருநகர சென்னை மாநகராட்சி சார்பில் நேற்று (01.08.2026) 50 இடங்களிலிருந்து 32.11 மெட்ரிக் டன் பழைய சோஃபாக்கள், மெத்தைகள் உள்ளிட்ட பழைய பொருட்கள் பெறப்பட்டு, கொடுங்கையூர் எரியூட்டும் நிலையத்திற்கு கொண்டு சென்று விஞ்ஞான முறையில் எரியூட்டி அகற்றப்பட்டது.
+Click Here இன்று (01.08.2026) மாநகராட்சி ஆணையாளர் டாக்டர் ஜி.எஸ். சமீரன்,இ.ஆ.ப., அவர்கள், பருவமழையினை முன்னிட்டு கெங்குரெட்டி சுரங்கப்பாதையில் தண்ணீர் தேங்கியுள்ளதா என்பதையும், கண்காணிப்பு நடவடிக்கைகளையும் பார்வையிட்டு ஆய்வு செய்தார்.
+இன்று (01.08.2026) மாநகராட்சி ஆணையாளர் டாக்டர் ஜி.எஸ். சமீரன்,இ.ஆ.ப., அவர்கள், பருவமழையினை முன்னிட்டு கெங்குரெட்டி சுரங்கப்பாதையில் தண்ணீர் தேங்கியுள்ளதா என்பதையும், கண்காணிப்பு நடவடிக்கைகளையும் பார்வையிட்டு ஆய்வு செய்தார்.
+Click Here பெருநகர சென்னை மாநகராட்சியில் மின் ஒப்பந்தப்புள்ளி தொடர்பாக 1,253 அலுவலர்களுக்கு சிறப்புப் பயிற்சி வழங்கப்பட்டது.
+பெருநகர சென்னை மாநகராட்சியில் மின் ஒப்பந்தப்புள்ளி தொடர்பாக 1,253 அலுவலர்களுக்கு சிறப்புப் பயிற்சி வழங்கப்பட்டது.
+Click Here தேனாம்பேட்டையில் மாற்றுத்திறனாளிகளுக்கான மண்டல ஒருங்கிணைந்த சேவை மையத்தினை மாண்புமிகு சட்டப்பேரவைத் தலைவர் திரு.ஜே.சி. டி.பிரபாகர் அவர்கள் இன்று திறந்து வைத்தார்.
+தேனாம்பேட்டையில் மாற்றுத்திறனாளிகளுக்கான மண்டல ஒருங்கிணைந்த சேவை மையத்தினை மாண்புமிகு சட்டப்பேரவைத் தலைவர் திரு.ஜே.சி. டி.பிரபாகர் அவர்கள் இன்று திறந்து வைத்தார்.
+Click Here பெருநகர சென்னை மாநகராட்சியில் மின் ஒப்பந்தப்புள்ளி தொடர்பாக அலுவலர்களுக்கான பயிற்சி.
+பெருநகர சென்னை மாநகராட்சியில் மின் ஒப்பந்தப்புள்ளி தொடர்பாக அலுவலர்களுக்கான பயிற்சி.
+Click Here மக்கள் தொகை கணக்கெடுப்பினை முன்னிட்டு சுயகணக்கெடுப்பின் மூலம் இணைய தளத்தில் பெருநகர சென்னை மாநகராட்சி அலுவலர்கள் தங்களது சுயவிவரங்களை பதிவு செய்து விழிப்புணர்வு ஏற்படுத்தினர்.
+மக்கள் தொகை கணக்கெடுப்பினை முன்னிட்டு சுயகணக்கெடுப்பின் மூலம் இணைய தளத்தில் பெருநகர சென்னை மாநகராட்சி அலுவலர்கள் தங்களது சுயவிவரங்களை பதிவு செய்து விழிப்புணர்வு ஏற்படுத்தினர்.
+Click Here கோடம்பாக்கம் மண்டலத்தில் மேற்கொள்ளப்பட்டு வரும் வளர்ச்சித் திட்டப் பணிகளை இணை ஆணையாளர் (பணிகள்) திரு.செ.சரவணன், இ.ஆ.ப., அவர்கள், இன்று பார்வையிட்டு ஆய்வு மேற்கொண்டனர்.
+கோடம்பாக்கம் மண்டலத்தில் மேற்கொள்ளப்பட்டு வரும் வளர்ச்சித் திட்டப் பணிகளை இணை ஆணையாளர் (பணிகள்) திரு.செ.சரவணன், இ.ஆ.ப., அவர்கள், இன்று பார்வையிட்டு ஆய்வு மேற்கொண்டனர்.
+Click Here அண்ணாநகர் மண்டலத்திற்குட்பட்ட வில்லிவாக்கம் இந்து மயானபூமியில் பராமரிப்புப் பணிகள் மேற்கொள்ளப்படவுள்ளதால், பொதுமக்கள் நியூ ஆவடி சாலையில் உள்ள வேலங்காடு மயானபூமி, ஜி.கே.எம். காலணி, ஜம்புலிங்கம் பிரதான சாலையில் உள்ள அரும்பாக்கம் மயானபூமி மற்றும் ஜி.கே.எம். மயானபூமியினைப் பயன்படுத்திக் கொள்ளுமாறு தெரிவித்துக் கொள்ளப்படுகிறது.
+அண்ணாநகர் மண்டலத்திற்குட்பட்ட வில்லிவாக்கம் இந்து மயானபூமியில் பராமரிப்புப் பணிகள் மேற்கொள்ளப்படவுள்ளதால், பொதுமக்கள் நியூ ஆவடி சாலையில் உள்ள வேலங்காடு மயானபூமி, ஜி.கே.எம். காலணி, ஜம்புலிங்கம் பிரதான சாலையில் உள்ள அரும்பாக்கம் மயானபூமி மற்றும் ஜி.கே.எம். மயானபூமியினைப் பயன்படுத்திக் கொள்ளுமாறு தெரிவித்துக் கொள்ளப்படுகிறது.
+Stray dog feeding spots in GCC areas
+I.T.I. Application form and Prospectus for the Academic year 2026-2027
+GETNLA-2026 Candidate Expenditure
+List of 300 Hawkers selected by draw of lot on 12.02.2026
+Application for Cattle
+Property Tax - Top Defualters List
+Area Sabha Meeting
+Claims and Objections Special Summary Revision-2026
+SIR-2026 Absent/Shifted/Double entry/Dead Electors(ASDD) and BLO, BLA Minutes of the meeting
+பெருநகர சென்னை மாநகராட்சி பகுதியில் வசித்து மறைந்த புகழ்பெற்ற தலைவர்கள் மற்றும் சிறந்த ஆளுமைகளின் பெயர்களில் புதியதாக பெயர் மாற்றம் செய்யப்பட்ட சாலைகள் / தெருக்கள் பெயர்கள் விவரங்கள்
+SIR-BLO-BLA-Proceedings (ASDD)
+Special Intensive Revision
+Relief Center details
+TTDC online booking website
+Abandoned Vehicles List
+Application for Maintenance and Management of a Modern Cowshed (11 months)
+Guidelines on the prohibition of Construction and Demolition waste usage in road margins and footpath edges
+Street Vendors List 2025
+Guidelines for Vacant Land owners
+Gender and Policy Lab’s Report on Google Maps
+C & D Dump Registration
+Waste Collectors List
+Guidelines for Clean Construction for GCC
+Guidelines for Construction and Demolition Waste Management
+Climate Action Plan of Chennai
+Claims and Objections Special Summary Revision-2025
+Muthalvar padaippagam
+Pre-Booking for Marina Swimming Pool
+C&D Waste Collectors Registration Form
+C&D Waste Dumping Locations
+BLO Contact as on 18-09-2024 and Polling Stations Proposed List
+E- Procurement Road Map
+Standard Bidding Document (SBD) - Goods - Two Cover
+Standard Bidding Document (SBD) - Works - Single Cover
+Standard Bidding Document (SBD) - Works - Two Cover
+Standard Bidding Document (SBD) - Consultancy
+GELS-2024 Candidate Expenditure
+Claims and Objections Special Summary Revision-2024
+BLO E-Patrika Magazine - Seventh Edition
+BLO E-Patrika Magazine - Sixth Edition
+Kodungaiyur Biomining Project - ESIAR
+BLO E-Patrika Magazine - Fifth Edition
+Amma Unavagam GO
+BLO E-Patrika Magazine -Tamil Translation of Fourth Edition
+Election Awareness video
+Ward Sabha Members List
+Continuous Revision 2023 Chennai District
+Formation of Area Sabha’s in 200 wards of Greater Chennai Corporation
+Integrated Urban Flood Management for the Chennai-Kosasthalaiyar Basin Project: (Package Nos. GCC/KB/1-46) Social Monitoring Report (January-June 2022)
+Service Providers for handling Wet and Dry Waste
+Claims and Objections Special Summary Revision-2023
+Integrated Urban Flood Management for Chennai – Kosasthalaiyar Basin Project (Semi Annual Environmental Monitoring Report)- Reporting Period: 01/2022-06/2022
+ISWDP - Kovalam Basin M1 & M2 - Fast Track works - ESIA Non Technical Summary
+Environmental Due Diligence Report
+Land Acquisition and Resettlement Due Diligence Report
+Parks Survey
+List of Roads for Parking
+Restoration of Eco-system services of Kadapakkam Lake in Chennai - Kosasthalaiyar Basin Project
+Delimitation of Wards
+Continuous Revision 2022 Chennai District
+SWD Network Map
+SWM-Conservancy Route Map
+Know Your Zone & Division
+Reservation of wards gazette
+International Competitive Bidding - Project for Installation of Chennai Metropolitan Area Intelligent Transport Systems
+Election - Special Summery Revision 2022
+Property Tax Online Payment
+Useful Links
+Wi - Fi - Smart Pole Location
+GCC Parks for Fitness Activities
+PM-SVANidhi
+EIA Report for the Missing Links Storm Water Drainage Project for the Core City Areas of GCC under World Bank Fund
+Official Login
+Applications
+Birth Certificate
+Death Certificate
+Property Tax
+Citizen Portal
+Contractor Registration Renewal
+Contractor Renewal and Re-Registration
+Swachh Bharat
+Volunteer Registration
+SLB and Balance Sheets
+Weekly Domestic Breeding checking Workers Schedule
+Right to Information Act
+Rules and Procedures
+Chennai Alumini Registration
+Election
+Climate Budget 2025-2026
+Material Creditors as on December 31, 2025
+Material Creditors as on 30.09.2025
+Creditor List
+Kosasthalaiyar Basin ISWD Project IEE & RP
+Chennai City Partnership, Environmental and Social Systems Assessment Report, 2021
+Standard Operating Procedure
+Town Planning
+
+===== SOURCE [plans] Chennai Metro Rail (CMRL) https://chennaimetrorail.org/ =====
+NAME: Chennai Metro Rail (CMRL) | CATEGORY: Construction | TYPE: Govt HTML | USABILITY: Medium
+NOTES: Metro planning + project locations
+TITLE: CMRL - Welcome to Chennai Metro Rail
+தமிழ்
+WCAG
+Write to Us
+Lost & Found
+Contact Us
+Commuters Corner Commuters Corner View More
+Commuters Corner
+Project Status Project Status View More
+Project Status
+Tender Tender View More
+Tender
+Business Development Business Development View More
+Business Development
+Technology Technology View More
+Technology
+Careers Careers View More
+Careers
+It has come to our notice that some unscrupulous elements are trying to mislead the candidates / public by spreading false details / information regarding the job opportunities in CMRL in the social media and local TV channels. Hence, it is brought to the notice of the candidates / public that the recruitment advertisements of CMRL are being published time through open advertisement only in newspaper and CMRL website “https://chennaimetrorail.org” . Therefore, candidates / public are hereby requested to go through our website regarding employment opportunities in CMRL and not to rely and act only based on the misleading information being published in the social media and local TV channels. Further, CMRL is not responsible for any losses incurred by the individual on account of the misleading false details / information’s disseminated in the social media and local TV channels.
+Mobile Applications
+Travel Planner
+Latest Updates
+Station Information
+Phase I
+Phase II
+LINE 1
+LINE 2
+Wimco Nagar Depot Metro
+Wimco Nagar Metro
+Thiruvotriyur Metro
+Thiruvottriyur Theradi Metro
+Kaladipet Metro
+Tollgate Metro
+New Washermenpet Metro
+Tondiarpet Metro
+Sir Thiyagaraya College Metro
+Washermenpet Metro
+Mannadi
+Highcourt
+Puratchi Thalaivar Dr. M.G.Ramachandran Central Metro
+Government Estate
+LIC
+Thousand Lights
+AG – DMS
+Teynampet
+Nandanam
+Saidapet Metro
+Little Mount
+Guindy
+Arignar Anna Alandur Metro
+OTA-Nanganallur Road
+Meenambakkam
+Chennai International Airport
+Egmore Metro
+Nehru Park
+Kilpauk
+Pachaiyappa’s College
+Shenoy Nagar
+Anna Nagar East
+Anna Nagar Tower
+Thirumangalam
+Koyambedu
+Puratchi Thalaivi Dr.J.Jayalalithaa CMBT Metro
+Arumbakkam
+Vadapalani
+Ashok Nagar
+Ekkattuthangal
+St. Thomas Mount Metro
+Coming Soon...
+Road Diversion
+Ticketing Facilities
+Passenger Facilities
+Metro Connect
+Corridor 3
+Corridor 4
+Corridor 5
+Parking
+Barrier Free Accessibility
+Facility for Women
+Security
+CMRL Free Bicycle
+MTC Small Bus Services
+Exclusive Metro Connect
+
+===== SOURCE [plans] SIPCOT https://sipcot.tn.gov.in/ =====
+NAME: SIPCOT | CATEGORY: Construction | TYPE: Govt HTML | USABILITY: Medium
+NOTES: Industrial estates/parks locations
+TITLE: SIPCOT | State Industries Promotion Corporation of Tamil Nadu
+DESCRIPTION: Industrial Construction
+Introduction
+Services
+Advantage
+Industrial Park
+Our Achievements
+Empowering Growth
+State Industries Promotion Corporation of Tamil Nadu (SIPCOT) Limited
+SIPCOT has nurtured the development of 50 Industrial Parks including 8 SEZs, spread over 24 districts in a total extent of about 48,926.48 acres.
+SIPCOT Mission
+Over the last 54 years, SIPCOT has been instrumental to the establishment and growth of 3,390 Industrial units.
+Our Vision
+SIPCOT's transparent land allotment policy not only fosters a business-friendly environment but also positions Tamil Nadu as investors' preferred destination.
+Our Story
+At the heart of our journey lies a commitment to fostering meaningful growth and driving innovative solutions.
+We offer a diverse range of services designed to support your business at every stage.
+Infrastructure Excellence
+A solid foundation is key to sustainable growth. Our infrastructure solutions are built with precision, scalability, and security at their core.
+SIPCOT Advantage
+Thrive as an industry, with SIPCOT!
+Industrial Infrastructure
+SIPCOT develops and maintains well-planned industrial parks, SEZs, and technology parks with essential infrastructure, reducing time and cost for businesses to set up operations.
+Land Allocation
+SIPCOT assists businesses in acquiring land for industrial purposes within its industrial zones. The organization simplifies the land acquisition process and provides options for investors to choose the most suitable location.
+Single-Window Clearance
+SIPCOT acts as a single point of contact for investors, streamlining the approval process. This simplifies the administrative procedures and expedites the issuance of permits and licenses from various government departments.
+SIPCOT Industrial Park
+Chengalpattu
+Cuddalore
+Dindigul
+Erode
+Kancheepuram
+Krishnagiri
+Perambalur
+Pudukottai
+Ranipet
+Sivagangai
+Thiruvallur
+Thoothukudi
+Tiruchirappalli
+Tirunelveli
+Tiruvannamalai
+Viluppuram
+Our Achivements
+00 Lakh+
+Employment
+00 +
+Industrial Units
+00 Lakh Cr+
+Cummulative Investment
+SIPCOT is a state entity tasked with Fueling Tamil Nadu's industrial future
+Industrial Parks 50+
+SEZ Parks 8+
+
+===== SOURCE [plans] Chennai Metro Water (CMWSSB) https://chennaimetrowater.tn.gov.in/ =====
+NAME: Chennai Metro Water (CMWSSB) | CATEGORY: Construction | TYPE: Govt HTML | USABILITY: Medium
+NOTES: Water/sewerage infrastructure projects
+
+
+===== SOURCE [plans] TNRERA https://rera.tn.gov.in/ =====
+NAME: TNRERA | CATEGORY: Construction | TYPE: Govt portal | USABILITY: Medium
+NOTES: Registered real-estate projects + locations + timelines
+TITLE: :: TNRERA ::
+TAMIL NADU REAL ESTATE REGULATORY AUTHORITY [TNRERA]
+(Firm/Individual)
+Registered
+(Form-M)
+Total
+Disposed
+Pending
+(Form-N)
+Homebuyers Corner
+Promoters Corner
+Agents Corner
+Know TNRERA Registered Projects
+Online Projects
+Offline Projects
+Directions
+Circulars
+The Real Estate (Regulation and Development) Act, 2016 aims to regulate and promote the real estate sector by regulating the transactions between buyers and promoters of residential as well as commercial projects. It also has provisions for establishing a regulatory authority at state level called "Real Estate Regulatory Authority" (RERA) for monitoring the real estate sector and adjudicating disputes relating to Real Estate Projects. The main aim of the Act is to protect buyers and help investment in Real Estate Sector.
+The Government of India have notified the Real Estate (Regulation and Development) Act, 2016. This Act provides for establishing Real Estate Regulatory Authority (RERA) and Appellate Tribunal for monitoring and adjudicating disputes relating to real estate projects and also to frame Rules under this Act. The Tamil Nadu Government in G.O.Ms.No.112, Housing & Urban Development Department, dated 22.06.2017 has approved the Tamil Nadu Real Estate (Regulation & Development) Rules, 2017 to carry out the provisions of Real Estate (Regulation & Development) Act, 2016.
+Registration of all Real Estate projects and Real Estate agents is made mandatory with RERA. No sale in a real estate project can be made without registration of the project with RERA. These Rules will apply to all ongoing projects and future projects where the area of land exceeds five hundred square meters and the number of apartments proposed to be developed exceed eight inclusive of all phases. It is mandatory for a promoter to upload the details of the proposed project on the website of RERA, including details of registration, types of apartments or plots booked, list of approvals taken etc. Both promoter and buyer are liable to pay equal rate of interest in case of any default from either side. Similarly, property dealers, brokers, middlemen by whatever name called have to register with TNRERA.
+Failure to register with TNRERA is an offence and punishable with fine or imprisonment or both.
+The office of the Authority is functioning in "RERA Tower", No.133, G-Block, 1st Avenue, Anna Nagar (East), Chennai – 600102. Office Hours: 10.00 AM to 5.45 PM (All Working Days).
+Select Promoter Type
+Login as Individual Promoter
+Login as Firm / Company
+S.No
+Date
+Title
+File
+31-07-2026
+Quarterly Progress Report (Building) and Annual Report on Statement of Accounts in Form-7 can be uploaded through promoters login
+No News Available
+Address :- The Director, Vigilance and Anti-Corruption, No.293, M.K.N.Road, Alandur, Chennai - 600016. Website :- www.dvac.tn.gov.in Phone No :- 044-2231 0989; 044-2232 1090; 044-2232 1085; 044-2234 2142 Fax No :- 044-2232 1005 Email :- dvac@nic.in
+Building
+Layout
+Regularisation of Layouts
+Agents
+Sitemap
+Help
+FAQ'S
+Contact Us
+Terms and conditions
+Privacy Policy
+Copyright Policy
+Hyper Linking Policy
+Disclaimer
+
+===== SOURCE [plans] TN Urban Habitat Development Board https://www.tnuhdb.tn.gov.in/ =====
+NAME: TN Urban Habitat Development Board | CATEGORY: Construction | TYPE: Govt HTML | USABILITY: Medium
+NOTES: Housing/slum redevelopment schemes
+
+
+===== SOURCE [plans] BDA (Bangalore Development Authority) https://bdabangalore.org/ =====
+NAME: BDA (Bangalore Development Authority) | CATEGORY: Construction | TYPE: Govt HTML | USABILITY: Medium
+NOTES: Master plan + layouts; RMP 2041 in progress
+
+
+===== SOURCE [plans] BMRDA https://bmrda.karnataka.gov.in/english =====
+NAME: BMRDA | CATEGORY: Construction | TYPE: Govt HTML | USABILITY: Medium
+NOTES: Region planning + local planning areas + townships
+TITLE: Bengaluru Metropolitan Region Development Authority(BMRDA) - Index
+login
+ಕನ್ನಡ
+visually challenged
+Bengaluru Metropolitan Region Development Authority(BMRDA)
+Government of Karnataka
+Local Planning Areas
+Structure Plan Reports Maps
+Reports
+Maps
+Fee Cess Surcharge
+Jurisdiction Jurisdiction Notification ​Jurisdiction Map
+Jurisdiction Notification
+​Jurisdiction Map
+RTI ONLINE SERVICES ARE AVAILABLE FOR BMRDA
+Right To Information Karnataka Information Commission Online R T I RTI 4(1) A 4 (1)(A) PART-I 4 (1)(A) PART-IV APA 4 (1)(A) PART-II 4 (1)(A) PART-III RTI 4(1) B RTI 26 (3) (B) RTI Portal Government of India RUDA CPA 2020 to 2023 KPA MPA -2020-23 NPA 2020 to 2023 HPA 2020 to 2023
+Karnataka Information Commission
+Online R T I
+RTI 4(1) A 4 (1)(A) PART-I 4 (1)(A) PART-IV APA 4 (1)(A) PART-II 4 (1)(A) PART-III
+4 (1)(A) PART-I
+4 (1)(A) PART-IV
+APA
+4 (1)(A) PART-II
+4 (1)(A) PART-III
+RTI 4(1) B
+RTI 26 (3) (B)
+RTI Portal Government of India
+RUDA CPA 2020 to 2023
+KPA MPA -2020-23
+NPA 2020 to 2023
+HPA 2020 to 2023
+Contact Us
+Events
+1: CA Site Paper Notification One week ago
+2: GBIT BROUCHER 11 months ago
+3: RTI ONLINE SERVICES ARE AVAILABLE FOR BMRDA 12 months ago
+Sri. Tushar Giri Nath, IAS
+Additional Chief Secretary, Urban Development Department
+INTRODUCTION
+The Bangalore Metropolitan Region Development Authority (BMRDA) is an Authority established under the Bangalore Metropolitan Region Development Authority Act, 1985 (Karnataka Act No. 39 of 1985), for the purposes of planning, coordinating and supervising the proper and orderly development of the area within the Bangalore Metropolitan Region and allied matters.
+SRI RAJENDRA CHOLAN P , IAS
+Metropolitan Commissioner BMRDA
+Functions
+Organisation chart
+Citizen Charter
+Constitution of the Authority
+SERVICES AND SCHEMES
+Change of Land Use
+Assigning New Land Use
+Subdivision Layout Approval
+Amalgamation & Bifurcation of sites
+Ease of doing Business
+Amalgamation or Bifurcation of a Plot or Site
+Development Plan
+Approval of Layout
+Change of Land Format
+Department Documents
+GBIT BROCHURE
+Acts and Rules BMRDA REGULATIONS 1999 BMRDA Cader and Recruitment Rules-2008 BMRDA Act 1985 The Bangalore Metropolitan Region Development Authority (Amendment) Regulations, 2000. BMRDA REGULATIONS 1996
+BMRDA REGULATIONS 1999
+BMRDA Cader and Recruitment Rules-2008
+BMRDA Act 1985
+The Bangalore Metropolitan Region Development Authority (Amendment) Regulations, 2000.
+BMRDA REGULATIONS 1996
+Budget and Annual Reports Budget Annual Report
+Budget
+Annual Report
+Notifications CA Site Paper Notifications Anekal Planning Authority Bangalore International Airport Area Planning Authority. Channapatna Planning Authority Doddaballapura Planning Authority. Hoskote Planning Authority. Kanakapura Planning Authority. Magadi Planning Authority. Nelamangala Planning Authority. Satellite Town Ring Road Planning Authority. Circulars Change of Land use Notification
+CA Site Paper Notifications Anekal Planning Authority Bangalore International Airport Area Planning Authority. Channapatna Planning Authority Doddaballapura Planning Authority. Hoskote Planning Authority. Kanakapura Planning Authority. Magadi Planning Authority. Nelamangala Planning Authority. Satellite Town Ring Road Planning Authority.
+Anekal Planning Authority
+Bangalore International Airport Area Planning Authority.
+Channapatna Planning Authority
+Doddaballapura Planning Authority.
+Hoskote Planning Authority.
+Kanakapura Planning Authority.
+Magadi Planning Authority.
+Nelamangala Planning Authority.
+Satellite Town Ring Road Planning Authority.
+Circulars
+Change of Land use Notification
+CTTS Traffic Management Plan CTTS Report
+Traffic Management Plan
+CTTS Report
+Featured Content of the Department
+test
+Land Utilization Plan - 2031
+Stay updated! Click 'Read More' for the latest insights in this section.
+BMRDA Transport Networks 2031 PROPOSED
+Get the latest updates—Click 'Read More' to explore this section.
+Administrative & planning Boundary 2031
+Discover more insights! Click 'Read More' for updates on this section.
+LOCATION & REGIONAL SETTING
+For detailed updates and insights, click 'Read More' now!
+Gallery
+INDEPENDENCE DAY 2025
+republic day 26/01/2025
+Photo
+Important Websites
+Raj-Bhavan
+Chief Minister
+Legislative Assembly
+Legislative Council
+Chief Secretary
+e - Governance
+C.E.G
+Web Portal
+Aadhaar
+e-Office
+e-Procurement
+HRMS
+KRDH
+KSWAN
+DPAR
+KSDC
+Open Data
+Digilocker
+Mahiti Kanaja
+NAD
+IPGRS
+State Scholarship Portal
+e - Services
+Sakala
+Seva Sindhu
+e-Gazette
+Online RTI
+e-Spandana
+Statistics
+e-Pragathi
+e-Taal
+DATA
+Karnataka Gazette
+CM Dashboard
+Central Government Websites
+Parliament
+Presidents Office
+Prime Ministers Office
+Passport Seva
+Karnataka Bhavan
+Technical Websites
+CDAC
+NIC
+STQC
+Kannada Websites
+Kannada & Culture
+Sahitya Parishat
+kanaja
+Development Authority
+EKannada
+Commissions
+Karnataka State Human Right Commission
+Karnataka State Electricity commission
+Karnataka Knowledge Commission
+Karnataka State Election Commission
+Karnataka Legal Authority
+Karnataka State Child Rights Commission
+Karnataka Women's Commission
+Karnataka State Consumer Disputes Redressal Commission
+Law Courts
+Supreme Court
+High Court
+District Courts
+Central Administrative Tribunal
+Karnataka State Administrative Tribunal
+Downloads
+NUDI
+GO Translate CDAC
+e-Speak
+kannada Voice Notes
+Screen Reader Access
+The website complies with World Wide Web Consortium (W3C) Web Content Accessibility Guidelines (WCAG) 2.0 level AA. This will enable people with visual impairments access the website using assistive technologies, such as screen readers. The information of the website is accessible with different screen readers, such as JAWS, NVDA, SAFA, Supernova and Window-Eyes.
+Following table lists the information about different screen readers:
+Sl.No
+Screen Reader
+Website
+Free/ Commercial
+Non Visual Desktop Access (NVDA)
+http://www.nvda-project.org/ (External website that opens in a new window)
+Free
+JAWS
+http://www.freedomscientific.com (External website that opens in a new window)
+Commercial
+Window-Eyes
+http://www.gwmicro.com (External website that opens in a new window)
+System Access To Go
+http://www.satogo.com/ (External website that opens in a new window)
+WebAnywhere
+http://webinsight.cs.washington.edu/ (External website that opens in a new window)
+Disclaimer
+Please note that this page also provides links to the websites / web pages of Govt. Ministries/Departments/Organisations. The content of these websites are owned by the respective organisations and they may be contacted for any further information or suggestion
+Website Policies and Guidelines
+Copyright Policy
+Hyperlinking Policy
+Security Policy
+Terms & Conditions
+Privacy Policy
+Accessibility Resources
+Sitemap Help Screen Reader Access Guidelines
+Sitemap
+Help
+Guidelines
+Last Updated: 2026-08-05 13:26:41
+Visitors Counter: 149283
+Version: CeG/KRN 4.0
+Content Owned and maintained by: Bengaluru Metropolitan Region Development Authority(BMRDA), Government of Karnataka
+Designed , Developed & Hosted by: Centre for e-governance - Webportal karnataka government © 2026, All Rights Reserved.
+Copyright policy (if the published information is available free of any charge)
+1)Information featured on this website can be re-published in any media form free of any charge only with prior permission from us(CeG) or concerned respective authority which is owning the website, through email.
+2)Information can be republished as it is available and not to be used in a distorted or misleading manner.
+3)Where the material is being published or suggested to others, the source must be prominently acknowledged
+4)13. However, the permission to reproduce this material does not extend to any material on this site, which is explicitly identified as being the copyright of a third party
+Copyright policy (if there is a provision to reuse published information)
+1)The information published on the website comes under copyright policy and obtaining authorization for their republish is a pre-requisite.
+2)To get permission one can mail to ………………..@.........
+(in case the respective department doesn’t need any permission to hyperlink in their website)
+1)We do not object to you linking directly to the information that is hosted on our site and no prior permission is required for the same.
+2)we do not permit our pages to be loaded into frames on other sites. Our Department’s pages must load into a newly opened browser window of the user.
+(in case of hyperlink permission is necessary for the website)
+1)to provide any link or its form on this website, it is compulsory to procure permission.
+2)permission can be obtained from the Centre for e-governance by requesting to this email. pd.webportal@karnataka.gov.in
+3)Before leaving this government website note: this contact button will lead to another website, to get more information on such new opened site, one must contact the concerned contacts registered on that website.
+1) For site security purposes and to ensure that this service remains available to all users, this Government computer system employs commercial software programs to monitor network traffic to identify unauthorized attempts to upload or change information, or otherwise cause damage.
+2) Except for authorized law enforcement investigations, no other attempts are made to identify individual users or their usage habits. Raw data logs are used for no other purposes and are scheduled for regular deletion.
+3) Unauthorized attempts to upload information or change information on this service are strictly prohibited and may be punishable under the Indian IT Act (2000).
+1)This website is designed, developed, and maintained by the center for e-governance.
+2) Though all efforts have been made to ensure the accuracy and currency of the content on this website, the same should not be construed as a statement of law or used for any legal purposes. In case of any ambiguity or doubts, users are advised to verify/check with the Department(s) and/or other source(s) and to obtain appropriate professional advice.
+3) ) Under no circumstances will this Department be liable for any expense, loss or damage including, without limitation, indirect or consequential loss or damage, or any expense, loss or damage whatsoever arising from use, or loss of use, of data, arising out of or in connection with the use of this website.
+4) These terms and conditions shall be governed by and construed in accordance with the Indian Laws. Any dispute arising under these terms and conditions shall be subject to the jurisdiction of the courts of India.
+5) The information posted on this website could include hypertext links or pointers to information created and maintained by non-Government/private organisations. (Name of Department) is providing these links and pointers solely for your information and convenience. When you select a link to an outside website, you are leaving the website and are subject to the privacy and security policies of the owners/sponsors of the outside website.
+6) The concerned department does not guarantee the availability of such linked pages at all times.
+7)The concerned department, cannot authorize the use of copyrighted materials contained in linked websites. Users are advised to request such authorization from the owner of the linked website.
+8)The concerned department does not guarantee that linked websites comply with Indian Government Web Guidelines
+If the user visits the information and collects information or downloads files, the following elements may automatically download,
+- your service domain, IP number, how visitors accessed our website.
+- browsers and operating systems.
+- date and time of users’ visits.
+- URLs from which visitors accessed information.
+- if the user has visited the website from other websites, details of that website
+When you visit some websites, they may download small pieces of software on your computer/browsing device known as cookies. Some cookies collect personal information to recognize your computer in the future. We only use non-persistent cookies or “per-session cookies”. 28 Per-session cookies serve technical purposes, like providing seamless navigation through this website. These cookies do not collect personal information on users and they are deleted as soon as you leave our website. The cookies do not permanently record data and they are not stored on your computer’s hard drive. The cookies are stored in memory and are only available during an active browser session. Again, once you close your browser, the cookie disappears.
+Privacy Policies
+privacy policy : (when the website doesn’t collect any personal information)
+We collect no personal information, like names or addresses, when you visit our website. If you choose to provide that information to us, it is only used to fulfill your request for information
+user information:
+we do collect technical user details when a user visits the websites and visitor information such as the type of browser, server, and domain, date and time, details of documents downloaded are recorded, This information is only used to help us make the site more useful for you. With this data, we learn about the number of visitors to our site and the types of technology our visitors use. We never track or record information about individuals and their visits. (except in the case when directed by the court through a warrant)
+cookies:
+Web sites provide a piece of software when visitors receive information on a website and they are called Cookies. No such cookies are used on this website.
+Email management:
+emails are stored when a user sends any information only for that instant and is used only to give information to them. these are not to be used for any purposes or to include in the contact list. without intimating the user, it won’t be revealed.
+collection of personal details:
+if the user asks or provides any personal information, the details of its usage are mentioned. if you are not satisfied or suspicious about the details are given or wish to provide an opinion about the same, its necessary for you to contact assigned webmasters under ‘contact us’ section note: private pieces of information received under ‘Personal details’ will only be used to collect identity or elements for easy identification.
+1. We do not collect personal information for any purpose other than to respond to you (for example, to respond to your questions or provide subscriptions you have chosen). If you choose to provide us with personal information like filling out a Contact Us form, with an e-mail address or postal address, and submitting it to us through the website-we use that information to respond to your message and to help you get the information you have requested. We only share the information you give us with another Government agency if your question relates to that agency, or as otherwise required by law.
+2. Our website never collects information or creates individual profiles for commercial marketing. While you must provide an email address for a localized response to any incoming questions or comments to us, we recommend that you do NOT include any other personal information.
+1)to make the information available to all, to prevent unauthorized user entry, to stop harming or distorting information and keeping the security of the website in mind, also to handle user traffic, commercial software programs are used.
+2)Except for official law institutions, no attempts are made to personally identify the visitor or user.
+3)Visitor information is subject to regular deletion
+4)unauthorized users shall not add or change information available which can have legal consequences and may be subjected to fine under IT act (2000).
+to help users access information within the website, a “search here” option is been provided. here, the option to type in Kannada is made available. while searching, usage of Unicode font is compulsory. option to search in English is also provided.
+if the internet is slow or unavailable, there may be a modification in website design or some subpages may not open.
+Help of Various File formats :
+Document Type
+Download
+PDF content
+Adobe Acrobat Reader (External website that opens in a new window)
+Word files
+Word Viewer (in any version till 2003) - External website that opens in a new window Microsoft Office Compatibility Pack for Word (for 2007 version) - External website that opens in a new window
+Excel files
+Excel Viewer 2003 (in any version till 2003) - External website that opens in a new window Microsoft Office Compatibility Pack for Excel (for 2007 version) - External website that opens in a new window
+PowerPoint presentations
+PowerPoint Viewer 2003 (in any version till 2003) - External website that opens in a new window Microsoft Office Compatibility Pack for PowerPoint (for 2007 version) - External website that opens in a new window
+Flash content
+Adobe Flash Player (External website that opens in a new window)
+Audio Files
+Windows Media Player (External website that opens in a new window)
+Sl. No.
+atoall
+(External website that opens in a new window)
+
+===== SOURCE [plans] KIADB http://kiadb.in/ =====
+NAME: KIADB | CATEGORY: Construction | TYPE: Govt HTML | USABILITY: Medium
+NOTES: Industrial areas development locations
+TITLE: KIADB Website Launch
+KIADB Has Launched Its New Website
+Please visit our official website:
+
+===== SOURCE [plans] BMRCL / Namma Metro https://bmrc.co.in/ =====
+NAME: BMRCL / Namma Metro | CATEGORY: Construction | TYPE: Govt HTML | USABILITY: Medium
+NOTES: Metro planning + project locations
+
+
+===== SOURCE [plans] TN Dept of Geology & Mining https://tnmines.tn.gov.in/ =====
+NAME: TN Dept of Geology & Mining | CATEGORY: Mining | TYPE: Govt HTML | USABILITY: Medium
+NOTES: State mining department; policy + administration
+TITLE: Department of Geology & Mining, Government of Tamil nadu
+DESCRIPTION: Department of Geology & Mining, Government of Tamil nadu
+Tasks of Department of Geology and Mining
+Tamilnadu Land Of Granites
+Mineral Exploration
+Mineral Development
+Employment Opportunities
+Revenue Generation
+Industrial Growth
+Curbing Illegal Mining
+Thiru C. Joseph Vijay,
+Welfare projects are taken up at a cost of Rs.1028.86 Cr. as on 31.05.2024
+The total fund collected upto March, 2024 is Rs.87.12 Cr.
+Dr. TK. Prabhu
+Mineral Revenue (2024-2025)
+Target
+Rs.2191.18 Cr
+Achieved 2024-25 (upto May, 2024)
+Rs.297.35 Cr
+PRADHAN MANTRI KHANIJ KSHETRA KALYAN YOJANA PROJECTS
+
+===== SOURCE [plans] TN Mineral Management System (MIMAS) https://mimas.tn.gov.in/dist/ =====
+NAME: TN Mineral Management System (MIMAS) | CATEGORY: Mining | TYPE: Govt portal (data) | USABILITY: Good
+NOTES: District-wise lease/quarry data - structured
+TITLE: Mineral Management System - Department of Geology and Mining, Government of Tamil Nadu
+
+===== SOURCE [plans] Karnataka Dept of Mines & Geology https://dmg.karnataka.gov.in/en =====
+NAME: Karnataka Dept of Mines & Geology | CATEGORY: Mining | TYPE: Govt HTML | USABILITY: Medium
+NOTES: State mining department; leases + administration
+TITLE: Department of Mines and Geology - Index
+LOGIN
+Kannada
+Official Website of GoK
+Corona Related Information
+Screen Reader Access
+The website complies with World Wide Web Consortium (W3C) Web Content Accessibility Guidelines (WCAG) 2.0 level AA. This will enable people with visual impairments access the website using assistive technologies, such as screen readers. The information of the website is accessible with different screen readers, such as JAWS, NVDA, SAFA, Supernova and Window-Eyes.
+Following table lists the information about different screen readers:
+Sl.No
+Screen Reader
+Website
+Free/ Commercial
+Non Visual Desktop Access (NVDA)
+http://www.nvda-project.org/ (External website that opens in a new window)
+Free
+JAWS
+http://www.freedomscientific.com (External website that opens in a new window)
+Commercial
+Window-Eyes
+http://www.gwmicro.com (External website that opens in a new window)
+System Access To Go
+http://www.satogo.com/ (External website that opens in a new window)
+WebAnywhere
+http://webinsight.cs.washington.edu/ (External website that opens in a new window)
+ಉಚಿತ ಕನ್ನಡ ಯುನಿಕೋಡ್‌ ಫಾಂಟ್‌ಗಳು
+File Name
+Size
+Download
+Kedage Kannada Fonts
+145.2 KB
+Mallige Kannada Fonts
+514 KB
+Lohit Kannada Fonts
+Murty Kannada Fonts
+SakalBharati Kannada Fonts
+Department of Mines and Geology
+Government of Karnataka
+Feedback
+Events
+Click here / Call 1902 to register your grievance (if any) regarding any scheme / service delivery of Government of Karnataka
+Department Online Services
+Integrated Lease Management System
+e Payment
+One State One GPS
+DMF Web Portal
+Seva Sindu
+Star Rating
+Read All
+Smt Rohini Sindhuri Dasari, I A S Secretary
+Sri Rangappa S, I A S Director
+About Us
+The Department of Mines and Geology is one of the important scientific and technical departments of the Government of Karnataka with a long history and legacy of 125 years. The main objectives of the department include mineral exploration, Mineral assessment, mineral quality analysis and in Mineral Administration the grant of Mining Lease and quarry leases,
+In Focus
+Dashboard
+Exploration Report​
+Chemical Laboratory
+Department Documents
+Circulars 2025 2022 2024 2023
+2025
+2022
+2024
+2023
+Seniority List 2025-26 Joint Director Deputy Director Senior Geologist Senior Geologist Senior Geologist (H K) Geologist Assistant Executive Engineer Assistant Engineer Junior Engineer Gazetted Manager Superintendent First Division Assistant Second Division Assistant Senior Data Entry Assistant(Senior Typist) Stenographer Senior Driver 2024-25 Addtional Director Senior Geologist Senior Geologist Senior Geologist (H K) Deputy Director Geologist Joint Director Chemist Assistant Executive Engineer Assistant Engineers Junior Engineers Superintendent FDA SDA Stenographers Senior Typist Typist Senior Drivers Drivers Group D 2023-24 Geologist Senior Geologist Senior Geologist Senior Geologist (HK) Joint Director Additional Director Chemist Deputy Director Assistant Executive Engineer Assistant Engineers Junior Engineers Drilling Engineers Assistant Drillers Superintendent FDA SDA Stenographers Senior Typist Typist Senior Drivers Drivers Attenders 2022-23 Senior Geologist Joint Director Geologist Chemist Drilling Engineers Assistant Engineers Junior Engineers Assistant Drillers Additional Director Superintendent FDA SDA Stenographers Senior Typist Typist Senior Drivers Drivers Attenders 2021-22 Seniority List Group D
+2025-26 Joint Director Deputy Director Senior Geologist Senior Geologist Senior Geologist (H K) Geologist Assistant Executive Engineer Assistant Engineer Junior Engineer Gazetted Manager Superintendent First Division Assistant Second Division Assistant Senior Data Entry Assistant(Senior Typist) Stenographer Senior Driver
+Joint Director
+Deputy Director
+Senior Geologist Senior Geologist Senior Geologist (H K)
+Senior Geologist
+Senior Geologist (H K)
+Geologist
+Assistant Executive Engineer
+Assistant Engineer
+Junior Engineer
+Gazetted Manager
+Superintendent
+First Division Assistant
+Second Division Assistant
+Senior Data Entry Assistant(Senior Typist)
+Stenographer
+Senior Driver
+2024-25 Addtional Director Senior Geologist Senior Geologist Senior Geologist (H K) Deputy Director Geologist Joint Director Chemist Assistant Executive Engineer Assistant Engineers Junior Engineers Superintendent FDA SDA Stenographers Senior Typist Typist Senior Drivers Drivers Group D
+Addtional Director
+Chemist
+Assistant Engineers
+Junior Engineers
+FDA
+SDA
+Stenographers
+Senior Typist
+Typist
+Senior Drivers
+Drivers
+Group D
+2023-24 Geologist Senior Geologist Senior Geologist Senior Geologist (HK) Joint Director Additional Director Chemist Deputy Director Assistant Executive Engineer Assistant Engineers Junior Engineers Drilling Engineers Assistant Drillers Superintendent FDA SDA Stenographers Senior Typist Typist Senior Drivers Drivers Attenders
+Senior Geologist Senior Geologist Senior Geologist (HK)
+Senior Geologist (HK)
+Additional Director
+Drilling Engineers
+Assistant Drillers
+Attenders
+2022-23 Senior Geologist Joint Director Geologist Chemist Drilling Engineers Assistant Engineers Junior Engineers Assistant Drillers Additional Director Superintendent FDA SDA Stenographers Senior Typist Typist Senior Drivers Drivers Attenders
+2021-22 Seniority List Group D
+Seniority List
+Office Orders
+Photo Gallery View all
+ಕಬ್ಬಿಣದ ಅದಿರು ಗ್ರೇಡ್ ಪರಿಷ್ಕರಣೆ
+ದರ ಗಣಕ
+ಕನಿಷ್ಠ ತೂಕ ಪರಿಶೀಲನೆ
+ಎಂ.ಡಿ.ಆರ್.ಒ. - ರೇಕ್ ಪರವಾನಗಿ
+Demo Video
+ಮೊಬೈಲ್ ಅಪ್ಲಿಕೇಶನ್‌ನ ಪ್ರಮುಖ ವೈಶಿಷ್ಟ್ಯಗಳು
+Disclaimer :
+Please note that this page also provides links to the websites / web pages of Govt. Ministries/Departments/Organisations.The content of these websites are owned by the respective organisations and they may be contacted for any further information or suggestion
+Website Policies and Guidelines
+Copyright Policy
+Hyperlinking Policy
+Security Policy
+Terms & Conditions
+Privacy Policy
+Sitemap
+Help
+Guidelines
+Visitors
+Last Updated​ : 2026-07-28 15:55:42
+Visitors Counter : 804741
+Version : CeG/KRN 2.0.0
+Copyright policy (if the published information is available free of any charge)
+1)Information featured on this website can be re-published in any media form free of any charge only with prior permission from us(CeG) or concerned respective authority which is owning the website, through email.
+2)Information can be republished as it is available and not to be used in a distorted or misleading manner.
+3)Where the material is being published or suggested to others, the source must be prominently acknowledged
+4)13. However, the permission to reproduce this material does not extend to any material on this site, which is explicitly identified as being the copyright of a third party
+Copyright policy (if there is a provision to reuse published information)
+1)The information published on the website comes under copyright policy and obtaining authorization for their republish is a pre-requisite.
+2)To get permission one can mail to ………………..@.........
+(in case the respective department doesn’t need any permission to hyperlink in their website)
+1)We do not object to you linking directly to the information that is hosted on our site and no prior permission is required for the same.
+2)we do not permit our pages to be loaded into frames on other sites. Our Department’s pages must load into a newly opened browser window of the user.
+(in case of hyperlink permission is necessary for the website)
+1)to provide any link or its form on this website, it is compulsory to procure permission.
+2)permission can be obtained from the Centre for e-governance by requesting to this email. pd.webportal@karnataka.gov.in
+3)Before leaving this government website note: this contact button will lead to another website, to get more information on such new opened site, one must contact the concerned contacts registered on that website.
+1) For site security purposes and to ensure that this service remains available to all users, this Government computer system employs commercial software programs to monitor network traffic to identify unauthorized attempts to upload or change information, or otherwise cause damage.
+2) Except for authorized law enforcement investigations, no other attempts are made to identify individual users or their usage habits. Raw data logs are used for no other purposes and are scheduled for regular deletion.
+3) Unauthorized attempts to upload information or change information on this service are strictly prohibited and may be punishable under the Indian IT Act (2000).
+1)This website is designed, developed, and maintained by the center for e-governance.
+2) Though all efforts have been made to ensure the accuracy and currency of the content on this website, the same should not be construed as a statement of law or used for any legal purposes. In case of any ambiguity or doubts, users are advised to verify/check with the Department(s) and/or other source(s) and to obtain appropriate professional advice.
+3) ) Under no circumstances will this Department be liable for any expense, loss or damage including, without limitation, indirect or consequential loss or damage, or any expense, loss or damage whatsoever arising from use, or loss of use, of data, arising out of or in connection with the use of this website.
+4) These terms and conditions shall be governed by and construed in accordance with the Indian Laws. Any dispute arising under these terms and conditions shall be subject to the jurisdiction of the courts of India.
+5) The information posted on this website could include hypertext links or pointers to information created and maintained by non-Government/private organisations. (Name of Department) is providing these links and pointers solely for your information and convenience. When you select a link to an outside website, you are leaving the website and are subject to the privacy and security policies of the owners/sponsors of the outside website.
+6) The concerned department does not guarantee the availability of such linked pages at all times.
+7)The concerned department, cannot authorize the use of copyrighted materials contained in linked websites. Users are advised to request such authorization from the owner of the linked website.
+8)The concerned department does not guarantee that linked websites comply with Indian Government Web Guidelines
+If the user visits the information and collects information or downloads files, the following elements may automatically download,
+- your service domain, IP number, how visitors accessed our website.
+- browsers and operating systems.
+- date and time of users’ visits.
+- URLs from which visitors accessed information.
+- if the user has visited the website from other websites, details of that website
+When you visit some websites, they may download small pieces of software on your computer/browsing device known as cookies. Some cookies collect personal information to recognize your computer in the future. We only use non-persistent cookies or “per-session cookies”. 28 Per-session cookies serve technical purposes, like providing seamless navigation through this website. These cookies do not collect personal information on users and they are deleted as soon as you leave our website. The cookies do not permanently record data and they are not stored on your computer’s hard drive. The cookies are stored in memory and are only available during an active browser session. Again, once you close your browser, the cookie disappears.
+Privacy Policies
+privacy policy : (when the website doesn’t collect any personal information)
+We collect no personal information, like names or addresses, when you visit our website. If you choose to provide that information to us, it is only used to fulfill your request for information
+user information:
+we do collect technical user details when a user visits the websites and visitor information such as the type of browser, server, and domain, date and time, details of documents downloaded are recorded, This information is only used to help us make the site more useful for you. With this data, we learn about the number of visitors to our site and the types of technology our visitors use. We never track or record information about individuals and their visits. (except in the case when directed by the court through a warrant)
+cookies:
+Web sites provide a piece of software when visitors receive information on a website and they are called Cookies. No such cookies are used on this website.
+Email management:
+emails are stored when a user sends any information only for that instant and is used only to give information to them. these are not to be used for any purposes or to include in the contact list. without intimating the user, it won’t be revealed.
+collection of personal details:
+if the user asks or provides any personal information, the details of its usage are mentioned. if you are not satisfied or suspicious about the details are given or wish to provide an opinion about the same, its necessary for you to contact assigned webmasters under ‘contact us’ section note: private pieces of information received under ‘Personal details’ will only be used to collect identity or elements for easy identification.
+1. We do not collect personal information for any purpose other than to respond to you (for example, to respond to your questions or provide subscriptions you have chosen). If you choose to provide us with personal information like filling out a Contact Us form, with an e-mail address or postal address, and submitting it to us through the website-we use that information to respond to your message and to help you get the information you have requested. We only share the information you give us with another Government agency if your question relates to that agency, or as otherwise required by law.
+2. Our website never collects information or creates individual profiles for commercial marketing. While you must provide an email address for a localized response to any incoming questions or comments to us, we recommend that you do NOT include any other personal information.
+1)to make the information available to all, to prevent unauthorized user entry, to stop harming or distorting information and keeping the security of the website in mind, also to handle user traffic, commercial software programs are used.
+2)Except for official law institutions, no attempts are made to personally identify the visitor or user.
+3)Visitor information is subject to regular deletion
+4)unauthorized users shall not add or change information available which can have legal consequences and may be subjected to fine under IT act (2000).
+to help users access information within the website, a “search here” option is been provided. here, the option to type in Kannada is made available. while searching, usage of Unicode font is compulsory. option to search in English is also provided.
+if the internet is slow or unavailable, there may be a modification in website design or some subpages may not open.
+Help of Various File formats :
+Document Type
+PDF content
+Adobe Acrobat Reader (External website that opens in a new window)
+Word files
+Word Viewer (in any version till 2003) - External website that opens in a new window Microsoft Office Compatibility Pack for Word (for 2007 version) - External website that opens in a new window
+Excel files
+Excel Viewer 2003 (in any version till 2003) - External website that opens in a new window Microsoft Office Compatibility Pack for Excel (for 2007 version) - External website that opens in a new window
+PowerPoint presentations
+PowerPoint Viewer 2003 (in any version till 2003) - External website that opens in a new window Microsoft Office Compatibility Pack for PowerPoint (for 2007 version) - External website that opens in a new window
+Flash content
+Adobe Flash Player (External website that opens in a new window)
+Audio Files
+Windows Media Player (External website that opens in a new window)
+Sl. No.
+atoall
+(External website that opens in a new window)
+
+===== SOURCE [plans] Ministry of Mines https://mines.gov.in/ =====
+NAME: Ministry of Mines | CATEGORY: Mining | TYPE: Govt HTML/PDF | USABILITY: Medium
+NOTES: National mining policy + notifications
+TITLE: Ministry of Mines, Government of India, Home
+
+===== SOURCE [plans] Indian Bureau of Mines https://ibm.gov.in/ =====
+NAME: Indian Bureau of Mines | CATEGORY: Mining | TYPE: Govt HTML | USABILITY: Medium
+NOTES: Mineral statistics + mine data
+TITLE: भारतीय खान ब्यूरो, नागपुर
+DESCRIPTION: Indian Bureau of Mines
+
+===== SOURCE [plans] Geological Survey of India https://gsi.gov.in/ =====
+NAME: Geological Survey of India | CATEGORY: Mining | TYPE: Govt HTML | USABILITY: Medium
+NOTES: Geoscience data + maps
+TITLE: GSI
+DESCRIPTION: OCBIS
+
+===== SOURCE [plans] National Mineral Exploration Trust https://nmet.gov.in/ =====
+NAME: National Mineral Exploration Trust | CATEGORY: Mining | TYPE: Govt HTML | USABILITY: Medium
+NOTES: Exploration projects + links to state depts
+
+
+===== SOURCE [plans] National Geoscience Data Repository (NGDR) https://geodataindia.gov.in/ =====
+NAME: National Geoscience Data Repository (NGDR) | CATEGORY: Mining | TYPE: GIS data portal | USABILITY: Good
+NOTES: GIS-compatible mineral exploration data
+
+
+===== SOURCE [plans] Open Government Data - IBM datasets https://www.data.gov.in/ =====
+NAME: Open Government Data - IBM datasets | CATEGORY: Mining | TYPE: Open data (CSV/API) | USABILITY: Good
+NOTES: Downloadable mining datasets
+

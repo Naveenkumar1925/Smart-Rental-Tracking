@@ -1,0 +1,8 @@
+# Site S005 (Yelahanka, Bengaluru) equipment inventory
+# Edit this file by adding/removing a line: PRODUCT_ID,QTY
+120-U02,1
+MD6250-U05,1
+D3-U04,1
+MD6200-U02,1
+D3-U05,1
+MD6250-U06,1

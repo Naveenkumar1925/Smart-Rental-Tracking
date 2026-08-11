@@ -1,0 +1,19 @@
+# Site S006 (Sholinganallur (OMR), Chennai) equipment inventory
+# Edit this file by adding/removing a line: PRODUCT_ID,QTY
+336-U02,1
+D3-U02,1
+216B3-U02,1
+MD6250-U02,1
+MD6250-U03,1
+815-U02,1
+320-U01,1
+MD6250-U01,1
+239D3-U01,1
+D3-U01,1
+239D3-U02,1
+216B3-U01,1
+MD6200-U01,1
+336-U01,1
+320-U03,1
+815-U01,1
+320-U02,1

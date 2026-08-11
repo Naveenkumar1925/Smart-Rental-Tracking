@@ -1,0 +1,224 @@
+{
+  "S001": {
+    "site_id": "S001",
+    "name": "Ambattur, Chennai",
+    "inventory": {
+      "CB10": {
+        "type": "Compactor",
+        "qty": 1,
+        "engine_hrs": 5.1,
+        "idle_hrs": 0.4
+      },
+      "MD6200": {
+        "type": "Drill",
+        "qty": 1,
+        "engine_hrs": 14.5,
+        "idle_hrs": 4.4
+      },
+      "336": {
+        "type": "Excavator",
+        "qty": 1,
+        "engine_hrs": 5.2,
+        "idle_hrs": 1.3
+      },
+      "239D3": {
+        "type": "Skid Steer Loader",
+        "qty": 1,
+        "engine_hrs": 6.6,
+        "idle_hrs": 1.0
+      },
+      "815": {
+        "type": "Compactor",
+        "qty": 1,
+        "engine_hrs": 11.4,
+        "idle_hrs": 7.9
+      }
+    }
+  },
+  "S002": {
+    "site_id": "S002",
+    "name": "Tambaram, Chennai",
+    "inventory": {
+      "320": {
+        "type": "Excavator",
+        "qty": 2,
+        "engine_hrs": 5.3,
+        "idle_hrs": 1.2
+      },
+      "MD6200": {
+        "type": "Drill",
+        "qty": 2,
+        "engine_hrs": 12.2,
+        "idle_hrs": 8.0
+      },
+      "239D3": {
+        "type": "Skid Steer Loader",
+        "qty": 2,
+        "engine_hrs": 1.2,
+        "idle_hrs": 13.0
+      },
+      "D5": {
+        "type": "Dozer",
+        "qty": 1,
+        "engine_hrs": 4.5,
+        "idle_hrs": 10.7
+      },
+      "120": {
+        "type": "Grader",
+        "qty": 4,
+        "engine_hrs": 6.8,
+        "idle_hrs": 10.6
+      },
+      "313-GC": {
+        "type": "Excavator",
+        "qty": 3,
+        "engine_hrs": 8.2,
+        "idle_hrs": 6.8
+      }
+    }
+  },
+  "S006": {
+    "site_id": "S006",
+    "name": "Sholinganallur (OMR), Chennai",
+    "inventory": {
+      "320": {
+        "type": "Excavator",
+        "qty": 2,
+        "engine_hrs": 5.0,
+        "idle_hrs": 2.8
+      },
+      "MD6310": {
+        "type": "Drill",
+        "qty": 4,
+        "engine_hrs": 9.5,
+        "idle_hrs": 6.5
+      },
+      "8750": {
+        "type": "Dragline",
+        "qty": 3,
+        "engine_hrs": 10.5,
+        "idle_hrs": 9.8
+      },
+      "8000": {
+        "type": "Dragline",
+        "qty": 4,
+        "engine_hrs": 7.3,
+        "idle_hrs": 1.2
+      },
+      "D5": {
+        "type": "Dozer",
+        "qty": 4,
+        "engine_hrs": 2.0,
+        "idle_hrs": 7.5
+      }
+    }
+  },
+  "S003": {
+    "site_id": "S003",
+    "name": "Whitefield, Bengaluru",
+    "inventory": {
+      "239D3": {
+        "type": "Skid Steer Loader",
+        "qty": 3,
+        "engine_hrs": 3.9,
+        "idle_hrs": 3.5
+      },
+      "18": {
+        "type": "Grader",
+        "qty": 4,
+        "engine_hrs": 11.0,
+        "idle_hrs": 6.5
+      },
+      "815": {
+        "type": "Compactor",
+        "qty": 1,
+        "engine_hrs": 7.0,
+        "idle_hrs": 7.8
+      },
+      "785": {
+        "type": "Off-Highway Truck",
+        "qty": 1,
+        "engine_hrs": 11.3,
+        "idle_hrs": 6.0
+      },
+      "313-GC": {
+        "type": "Excavator",
+        "qty": 4,
+        "engine_hrs": 0.7,
+        "idle_hrs": 16.3
+      }
+    }
+  },
+  "S004": {
+    "site_id": "S004",
+    "name": "Electronic City, Bengaluru",
+    "inventory": {
+      "120": {
+        "type": "Grader",
+        "qty": 1,
+        "engine_hrs": 5.7,
+        "idle_hrs": 1.4
+      },
+      "MD6200": {
+        "type": "Drill",
+        "qty": 3,
+        "engine_hrs": 12.0,
+        "idle_hrs": 5.0
+      },
+      "18": {
+        "type": "Grader",
+        "qty": 4,
+        "engine_hrs": 1.6,
+        "idle_hrs": 5.5
+      },
+      "8750": {
+        "type": "Dragline",
+        "qty": 2,
+        "engine_hrs": 11.0,
+        "idle_hrs": 6.5
+      },
+      "216B3": {
+        "type": "Skid Steer Loader",
+        "qty": 2,
+        "engine_hrs": 5.4,
+        "idle_hrs": 10.2
+      }
+    }
+  },
+  "S005": {
+    "site_id": "S005",
+    "name": "Yelahanka, Bengaluru",
+    "inventory": {
+      "313-GC": {
+        "type": "Excavator",
+        "qty": 2,
+        "engine_hrs": 4.4,
+        "idle_hrs": 1.5
+      },
+      "D11": {
+        "type": "Dozer",
+        "qty": 2,
+        "engine_hrs": 9.9,
+        "idle_hrs": 5.0
+      },
+      "120": {
+        "type": "Grader",
+        "qty": 2,
+        "engine_hrs": 7.9,
+        "idle_hrs": 0.2
+      },
+      "MD6250": {
+        "type": "Drill",
+        "qty": 4,
+        "engine_hrs": 3.2,
+        "idle_hrs": 0.1
+      },
+      "8750": {
+        "type": "Dragline",
+        "qty": 3,
+        "engine_hrs": 6.4,
+        "idle_hrs": 10.7
+      }
+    }
+  }
+}

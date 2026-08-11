@@ -1,0 +1,698 @@
+# SCRAPE LABEL: weather
+# SOURCES: 13 (pages fetched: 10, notes-only: 3)
+# CHARS: 35211
+
+===== SOURCE [weather] Open-Meteo Forecast API https://open-meteo.com/ =====
+NAME: Open-Meteo Forecast API | CATEGORY: Weather | TYPE: Forecast API (JSON) | USABILITY: Best
+NOTES: No API key; free up to 10000 calls/day; endpoint api.open-meteo.com/v1/forecast; 16-day forecast
+
+
+===== SOURCE [weather] Open-Meteo Air Quality API https://air-quality-api.open-meteo.com/ =====
+NAME: Open-Meteo Air Quality API | CATEGORY: Weather | TYPE: API (JSON) | USABILITY: Best
+NOTES: Free no-key air quality companion to Open-Meteo
+
+
+===== SOURCE [weather] OpenWeatherMap https://openweathermap.org/ =====
+NAME: OpenWeatherMap | CATEGORY: Weather | TYPE: Forecast API (JSON) | USABILITY: Good
+NOTES: Free API key required; 5-day/3-hour forecast on free tier
+TITLE: OpenWeather APIs for Weather, Energy, and Environment
+DESCRIPTION: OpenWeather provides global APIs for weather, environmental, and energy data, including current conditions, forecasts, historical weather, air pollution, solar radiation, road risk, and solar energy insights. Built for developers and businesses, our platform offers reliable data access, broad product coverage, and flexible self-service tools to support apps, analytics, operations, and decision-making.
+Build with Weather Data
+From real-time forecasts to 47+ years of global climate history, OpenWeather provides instant access to weather APIs through self-service subscriptions for developers, analysts, and businesses
+Get API Key
+View Pricing
+Weather forecast
+Hourly forecast
+Hourly data not available for this day
+Trusted by
+All-in-One Weather Data, One Simple Call
+Access real-time weather, hourly & daily forecasts, national alerts, and historical data — through a unified timeline-based API. Whether you’re building apps, analytics, AI workflows, dashboards, and enterprise weather solutions, One Call API 4.0 is your all-purpose solution.
+Start Free
+Explore API Docs
+Current Conditions
+1-Minute Forecast
+15-Minute Forecast Timeline
+Hourly Weather Timeline
+Daily Weather Timeline
+National Weather Alerts
+Start with 1,000 free API calls per day. Scale with pay-as-you-call pricing.
+One platform. Every type of weather data.
+Current Weather Data Real-time weather data for any location on Earth, delivered with high accuracy and low latency. From live conditions to key atmospheric parameters, get the insights you need, exactly when you need them. Live observations & conditions Global coverage from multiple data sources Accessible via API or bulk files Subscribe API docs
+Current Weather Data
+Real-time weather data for any location on Earth, delivered with high accuracy and low latency. From live conditions to key atmospheric parameters, get the insights you need, exactly when you need them.
+Live observations & conditions
+Global coverage from multiple data sources
+Accessible via API or bulk files
+Subscribe
+API docs
+Forecasted Weather Data Global forecasts from minute-level resolution to long-term outlooks. Whether you need short-term precision or extended climate trends, we deliver the insights to support confident, data-driven decisions. Hourly & daily forecasts Climate models for long-term forecasting Accessible via API or bulk files Subscribe API docs
+Forecasted Weather Data
+Global forecasts from minute-level resolution to long-term outlooks. Whether you need short-term precision or extended climate trends, we deliver the insights to support confident, data-driven decisions.
+Hourly & daily forecasts
+Climate models for long-term forecasting
+Historical Weather Data Explore decades of global weather history, from hourly records to long-term climate trends. Whether you’re analysing past conditions or building predictive models, our archives give you the depth and reliability you need. 47+ years of historical data Hourly & daily archives Accessible via API or bulk files Subscribe API docs
+Historical Weather Data
+Explore decades of global weather history, from hourly records to long-term climate trends. Whether you’re analysing past conditions or building predictive models, our archives give you the depth and reliability you need.
+47+ years of historical data
+Hourly & daily archives
+How to work with OpenWeather
+Weather APIs for developers and businesses Access reliable global weather data through clear documentation, quickstart examples, and flexible self-service plans. Integrate current, forecast, and historical data into your products and workflows in minutes. Getting Started
+Weather APIs for developers and businesses
+Access reliable global weather data through clear documentation, quickstart examples, and flexible self-service plans. Integrate current, forecast, and historical data into your products and workflows in minutes.
+Enterprise Service Enterprise-grade weather services for organisations with operational and business-critical needs. Access contractual delivery, broader licensing, onboarding support, and account coordination to strengthen planning, continuity, and decision-making at scale. Explore Enterprise Service
+Enterprise Service
+Enterprise-grade weather services for organisations with operational and business-critical needs. Access contractual delivery, broader licensing, onboarding support, and account coordination to strengthen planning, continuity, and decision-making at scale.
+Industry Solutions Industry-focused weather solutions for organisations managing complex operational and sector-specific risks. Access tailored services, analytics, weather stations and sensors, and expert support to improve resilience, planning, asset protection, and decision-making across critical environments. Explore Industry Solutions
+Industry Solutions
+Industry-focused weather solutions for organisations managing complex operational and sector-specific risks. Access tailored services, analytics, weather stations and sensors, and expert support to improve resilience, planning, asset protection, and decision-making across critical environments.
+
+===== SOURCE [weather] WeatherAPI https://www.weatherapi.com/ =====
+NAME: WeatherAPI | CATEGORY: Weather | TYPE: Forecast API (JSON) | USABILITY: Good
+NOTES: Free API key required
+TITLE: Free Weather API - WeatherAPI.com
+DESCRIPTION: WeatherAPI.com free weather API and weather data and Geolocation API (JSON and XML) for hourly, daily and 15 min interval weather, historical data, bulk request, astronomy, sports and much more.
+
+===== SOURCE [weather] Visual Crossing https://www.visualcrossing.com/ =====
+NAME: Visual Crossing | CATEGORY: Weather | TYPE: Forecast+History API | USABILITY: Good
+NOTES: Free API key required; strong historical archive
+TITLE: Visual Crossing | Enterprise-Grade Weather API & Data for Developers
+DESCRIPTION: Access global historical & real-time weather data with Visual Crossing. Data & Weather APIs trusted by Fortune 500 companies for accuracy, affordability, and developer-ready tool
+The World’s Most Comprehensive Weather API for Businesses and Developers
+Trusted by Fortune 500 companies and global organizations, Visual Crossing delivers the accuracy, scale, and affordability you need to turn weather data into business intelligence.
+Access the most reliable historical data and real-time hyperlocal forecasts instantly. Our powerful Query Builder and AI-assisted coding tools help you turn raw weather data into insights that drive smarter, faster decisions.
+Powerful Tools to Access and Use Weather Data
+Explore the products that make Visual Crossing the go-to weather platform for developers, analysts, and enterprise teams. Each tool delivers speed, flexibility, and reliability.
+Weather API
+Access accurate historical, real-time, and forecast data from multiple trusted global sources through a straightforward API call. Designed for performance, scalability, and seamless integration with any platform.
+Weather Downloader
+Build, filter, and export massive weather datasets in seconds without writing a single line of code. Perfect for business users and analysts who need reliable, ready-to-use data.
+AI Code Generator
+Generate ready-to-run code and scripts automatically in any language, such as Python, JavaScript, and more. The AI Coder simplifies integration so you can add weather data to your applications in minutes
+Query Builder
+The Visual Crossing Query Builder lets you create powerful, no-code weather queries using global historical, real-time, and forecast data from trusted sources like NOAA. Instantly export results in CSV, JSON, or Excel and generate API-ready code to integrate weather intelligence into your applications.
+Specialized Datasets
+Access datasets tailored for industries like energy, solar, wind, agriculture, and logistics. Each dataset is designed for precision modeling, forecasting, and long-term planning.
+Weather Risk Monitor
+Monitor global operations with a unified dashboard that tracks hyperlocal weather risks across thousands of sites. Define custom safety thresholds for wind, rain, and temperature to automate risk alerts and optimize site-specific scheduling.
+Why Choose Visual Crossing
+Visual Crossing makes enterprise-grade weather data simple, affordable, and accessible. Here’s why thousands of developers and global brands trust us.
+Accurate and Reliable
+Powered by verified government and private data for results you can trust. Our system blends multiple gold-standard data sources and applies advanced interpolation to ensure accuracy for any location worldwide.
+Complete Weather API
+Access global historical, real-time, and forecast data from one trusted source. A single API call delivers comprehensive coverage so you can integrate weather intelligence directly into your applications, dashboards, or analytics tools.
+Developer Friendly
+Build complex queries in minutes with our no-code Query Builder or AI Coder. Generate instant API requests, test endpoints, and export code snippets for Python, R, or JavaScript to speed up integration.
+Affordable and Scalable
+Get enterprise-quality weather data at a fraction of the cost. Whether you’re running a startup or scaling across departments, Visual Crossing provides flexible pricing that grows with your needs.
+Easy Data Access
+Instantly download in CSV, JSON, or Excel formats with zero setup required. Data is formatted for immediate use in business intelligence platforms like Excel, Power BI, and Power Query.
+Trusted by Leading Organizations
+Engineered for Accuracy, Speed, and Scale
+Real-Time Hyperlocal Forecasts
+Get hyperlocal forecasts updated continuously with high-resolution models that deliver pinpoint accuracy anywhere in the world. This level of precision enables businesses to anticipate weather impacts, optimize operations, and plan with confidence.
+Developer Integrations
+Use our Query Builder or AI Coder to create and test complex queries instantly. Visual Crossing integrates easily with popular programming languages and business tools, streamlining your development and analysis workflows.
+Accuracy You Can Trust
+Our data is derived from gold-standard government and private weather networks. Each dataset undergoes multi-source interpolation and validation to ensure consistent, reliable results for every location on Earth.
+Bulk and Historical Data
+Access more than 50 years of clean, structured weather data for any location. Long-term archives make it ideal for modeling, analytics, research, and predictive applications across every industry.
+Flexible Output Formats
+Choose from CSV, JSON, or Excel outputs and add-in. The platform’s multi-format export capabilities allow you to integrate weather data directly into your existing BI tools, apps, and enterprise systems without extra configuration.
+Weather Intelligence for Every Industry
+From energy and agriculture to logistics and insurance, Visual Crossing powers smarter decisions in every weather-driven industry.
+Solar and Renewable Energy
+Accurate solar data ensures maximum operational efficiency by predicting the most productive sites. Use historical and forecast weather conditions, including solar irradiance, to select, plan, optimize, and maintain a solar farm.
+Utility Companies
+Protect the grid and respond faster to weather-driven disruptions through accurate weather intelligence. Real-time data from Visual Crossing helps forecast grid load and ensure energy distribution to protect infrastructure, maintain service, and prepare for potential outages.
+Retail and eCommerce
+Match local weather trends to consumer behavior, manage inventory, and optimize promotions with real-time data insights. Retailers use our forecasts to align marketing campaigns, stock seasonal items, and predict demand spikes across regions.
+Insurance and Risk Management
+Verify weather-related claims, model risk, and assess storm impact faster using trusted, time-stamped historical records. Accurate datasets help insurers price risk more effectively and settle claims with verified event data.
+Agriculture and Food Production
+Plan planting and harvesting schedules, track soil moisture, and protect yield outcomes with hyperlocal forecasts. Farmers and agronomists use Visual Crossing to anticipate droughts, frost events, and growing conditions that affect crop performance.
+Construction and Real Estate
+Predict weather delays, manage schedules, and ensure job site safety with accurate, location-specific forecasts. Project managers rely on our data to minimize downtime, control costs, and meet delivery deadlines.
+Shipping and Logistics
+Improve route planning, avoid delays, and monitor delivery safety with live and forecasted weather data for every leg of the journey. Logistics providers use Visual Crossing to reroute shipments, prevent weather-related losses, and maintain consistent delivery times.
+Academia and Research
+Access 50 years of historical weather data and global forecasts to support research, modeling, and academic studies. Universities and research institutions use our datasets for climate analysis, environmental modeling, and long-term forecasting studies.
+Workforce and HR Planning
+Use weather data to improve scheduling, protect field teams, and maintain operational safety year-round. Businesses integrate our forecasts into HR and workforce planning tools to minimize safety risks and reduce weather-related downtime.
+Where Industry Leaders Find Reliability
+“We switched to Visual Crossing from a competitor as the result of a pricing model change, and we found it both easy to implement and reliable. We deal with many third party service providers, and our dealings with Visual Crossing have consistently been amongst the most straightforward.”
+Connor McKee Vice President of Engineering – Fexa
+“We are globally very happy with the Visual Crossing API and the information we can get out of it.”
+Pierre Quinton Application Engineer – AVL
+“Euer Service ist genau wonach ich gesucht hatte und was ich benötige 10 von 10.”
+Lukas Haemisch Head of Marketing – pacemaker.ai
+“Since 2021, we have leveraged Visual Crossing’s API for Global Weather Data, historical data, and future predictions into our worldwide SUNTRACK solar-tracker monitoring platform for all clients. The integration has been seamless and reliable, and we are extremely satisfied with the service.”
+Daniel Pena Cloud Solutions Architect & Agile Team Co-Leader – Kinematics
+“We are satisfied with Visual Crossing’s weather data services as it is reliable, insightful, and easy to integrate into our workflows.”
+Franz Joseph Ryle del Valle Operations Manager, Data Analytics – Manila Water
+“I truly appreciate your weather data service — I’m currently using your datasets to build a predictive model for irrigation management in durian orchards.”
+Pattharaporn Thongnim Burapha University Thailand
+“ This is one of the coolest services I’ve come across recently. The API query builder paired with the GenAI chatbot shows you had developers in mind. I used it to write M code for implementation in Power BI and it couldn’t have been easier. ”
+Joe Ramos, P.E.
+Enterprise O&G developer
+Free Weather Dashboards
+Start Using the Most Accurate Weather Data Today
+Your first 1,000 daily records are free and include both historical and forecast data for commercial use.
+Ready to Access the World’s Most Accurate Weather Data?
+Join thousands of developers, analysts, and global companies who rely on Visual Crossing to make data-driven decisions. Whether you’re downloading complete datasets or integrating real-time weather into your systems, Visual Crossing gives you everything you need to start fast.
+Trusted by Industry Leaders Worldwide
+Visual Crossing delivers professional-grade weather intelligence through one of the most complete and affordable APIs in the industry. Our platform combines global historical weather data, real-time observations, and hyperlocal forecasts, allowing you to power business applications, analytics, and decision models with trusted accuracy.
+Weather Intelligence You Can Rely On
+Whether you are managing risk, planning logistics, or building a data-driven product, Visual Crossing makes high-resolution weather data accessible to everyone.
+Every subscription includes more than 50 years of historical weather data, giving you the depth required for climate modeling, trend analysis, and forecasting.
+Our data is sourced from verified government entities like NOAA, German DWD, UK Met Office, and private networks. This ensures the highest possible precision for each location. With continuously updated, high-resolution models, Visual Crossing provides the confidence to make informed decisions no matter where your operations are located.
+Engineered for Developers, Proven by Data
+Developers love Visual Crossing for its flexibility and ease of integration. Use our no-code Query Builder, AI Coder, and robust language libraries to generate code in seconds. Business teams can work directly in Excel, Power Query, or Power BI to access data without writing a single line of code. Every dataset is available in multiple formats, including CSV, JSON, and Excel, making it simple to connect to your favorite BI tools or data warehouses.
+From energy and insurance to agriculture and retail, organizations worldwide rely on Visual Crossing for accurate weather insights that drive performance and profitability. Our platform is built to scale with your needs, delivering enterprise-ready reliability, uptime, and performance at a fraction of the cost of competing solutions.
+Weather Data Daylight and Twilight Explained: Civil, Nautical, and Astronomical Twilight Read more »
+Weather API Weather Maps API – Tiles, Images, and Legends Read more »
+Blog What Permanent Daylight Saving Time Would Actually Do to Your Day Read more »
+Weather Data for Excel and Google Sheets How to use the Microsoft Excel WEBSERVICE function to retrieve weather data Read more »
+102
+
+===== SOURCE [weather] Weatherbit https://www.weatherbit.io/ =====
+NAME: Weatherbit | CATEGORY: Weather | TYPE: Forecast API (JSON) | USABILITY: Good
+NOTES: Free API key required
+TITLE: Weather API | Weatherbit
+DESCRIPTION: Access accurate weather data with the Weather API by Weatherbit. Get real-time, historical, and forecast weather data for any location worldwide
+Weather API for You.
+The High Performance Weather API for All of Your Data Needs.
+Enhance your business with our global weather data API. Start with a free trial in just a few clicks!
+Premium Weather API starting at $45/mo
+Try it for free , today!
+View Pricing | View Docs
+Integrate With the World’s Best Weather API in Just a Few Minutes
+Over 45 Available Fields Including:
+Temperature
+Pressure
+Dew point
+Wind speed
+Wind direction
+Air quality
+Pollen
+Precipitation
+Snowfall
+Cloud Cover
+Humidity
+Evapotranspiration
+Lightning
+Solar Radiation
+UV Index
+Visibility
+Weather
+Day/Night
+Sunrise/Sunset
+And more...
+Available API's:
+Current Weather & Alerts
+60 Min Rain/Snow Nowcast
+Daily Forecasts
+Hourly Forecasts
+Historical Weather
+Air Quality & Pollen
+Agricultural Data
+Climate Normals
+Degree Days
+A Simple and Powerful Weather API
+Getting access to accurate weather forecasts and historical weather data via API has never been easier.
+Machine Learning Powered
+Our Weather API leverages advanced machine learning techniques to correct biases in forecast models , reducing forecast error by up to 50% in some areas when compared to high resolution regional weather models. Our forecasts consistently outperform competitors, including the US National Weather Service. For live performance comparisons, visit our forecast verification page .
+Complete/Gap-Free
+The most accurate collection of complete, and gap-free historical weather observations on the web. Backed by multiple data sources including station data, satellite, radar, and re-analysis products. The Historical Weather API provides data >20 years in the past, and at timesteps as small as 15 minutes. We utilize advanced methods to backfill, and interpolate missing data in order to provide a historical weather dataset with a guaranteed 99.5% data availability for any location/time.
+Rapidly Updating
+Real-time weather intelligence with exceptional timeliness and relevance. Our Weather API provides high-frequency updates across our data offerings, with current conditions refreshing every 5-10 minutes, weather forecasts updating hourly, and severe weather alerts dispatching instantly upon issuance. This rapid refresh rate ensures you always have access to the latest meteorological insights, crucial for time-sensitive applications and decision-making processes.
+Hyperlocal
+Obtain hyperlocal observed weather data and precise forecasts for any location worldwide. Leveraging cutting-edge technology, this Weather API provides exceptional spatial resolution, ranging from ultra-fine sub-kilometer precision to broader 13 km grids. This granularity allows users to obtain highly localized weather information, crucial for applications requiring pinpoint accuracy.
+Scalable
+Scale your usage to your budget. Start out with our free subscription , and upgrade to a paid subscription with no long-term commitment as your weather data needs grow. You can scale up to 10 Million requests/day in your account dashboard with just a few clicks.
+Fast and Reliable
+Our service is hosted in multiple data centers around the world, and has been available >99.999% of the time since 2017. We also offer uptime guarentees ranging from 95% to 99.99% for Enterprise customers. You can view the current health of our API's quickly, and easily on our API status page .
+Learn More About the Weather API
+Overview
+Pricing
+Features
+Terms and Conditions
+Privacy Statement
+Weather API's
+Current Weather API
+Severe Weather Alerts API
+Weather Forecast API
+Historical Weather API
+Ag Weather API
+Air Quality API
+Resources
+API Status
+API Documentation
+Weather Maps
+Frequently Asked Questions
+Knowledge Base
+Blog
+About Us
+Support
+Contact us
+Email us
+
+===== SOURCE [weather] Tomorrow.io https://www.tomorrow.io/ =====
+NAME: Tomorrow.io | CATEGORY: Weather | TYPE: Forecast API (JSON) | USABILITY: Good
+NOTES: Free API key required
+
+
+===== SOURCE [weather] IMD Mausam (national) https://mausam.imd.gov.in/ =====
+NAME: IMD Mausam (national) | CATEGORY: Weather | TYPE: Govt HTML | USABILITY: Medium
+NOTES: Official India forecasts; no open API; HTML scraping is brittle
+TITLE: होम | भारत मौसम विज्ञान विभाग
+DESCRIPTION: Weather Today: check here live weather forecast, temperature, air quality(AQI) updates along with upcoming week rain status and weather forecast Today. आज का तापमान, तापमान, मौसम, मौसम पूर्वानुमान, ततकाल मौसम जानकारी
+भारत मौसम विज्ञान विभाग
+पृथ्वी विज्ञान मंत्रालय
+भारत सरकार
+चेतावनी
+तत्कालिक चेतावनी
+सार्वजनिक अवलोकन
+विशिष्ट पूर्वानुमान
+अमरनाथ यात्रा
+समुद्री पूर्वानुमान
+स्वास्थ्य मौसम विज्ञान बुलेटिन
+पर्यटन पूर्वानुमान
+गरज वाली आंधी की भविष्यवाणी
+गर्म लहर मार्गदर्शन
+आकस्मिक बाढ़ बुलेटिन
+ए क्यू ई डब्ल्यू एस
+वायु गुणवत्ता पूर्वानुमान
+ENFUSER AQ
+विद्युत क्षेत्र
+तीर्थ यात्रा पूर्वानुमान
+पर्वत मौसम बुलेटिन
+राजमार्ग पूर्वानुमान
+पूर्वानुमान - भारतीय रेलवे
+प्रेस विज्ञप्ति तारीख 05 अगस्त, 2026:अगले 5-6 दिनों के दौरान पूर्वी और पूर्वोत्तर भारत में कुछ जगहों पर भारी से बहुत भारी बारिश होने की संभावना है|
+Press Release Dated: 05th August 2026 Isolated heavy to very heavy rainfall very likely over East & Northeast India during next 5-6 days with Isolated extremely heavy rainfall likely over Meghalaya on today, the 5th August, 2026.
+Current Weather Status and Extended Range Forecast for the next two weeks (30 July to 12 August 2026)
+वर्तमान मौसम
+New Delhi-Safdarjung
+उपग्रह
+राडार
+उपग्रह तड़ित पूर्वानुमान
+दैनिक मौसम ब्रीफिंग ( हिन्दी )
+समाचार एवं घटनाक्रम
+Dr. Mrutyunjay Mohapatra, Director General of Meteorology, India Meteorological Department (IMD), Permanent Representative of India to the World Meteorological Organization (WMO), and Third Vice-President of WMO, represented India at the Eightieth Session of the Executive Council of the WMO (EC-80) held in Geneva, Switzerland
+Declaration of RMC, Lucknow by Hon’ble CM of Uttar Pradesh
+Dr. Mrutyunjay Mohapatra, Director General of Meteorology, India Meteorological Department (IMD), was conferred the prestigious “Prana Krushna Parija Award – 2026” in recognition of his outstanding contributions to meteorology, disaster risk reduction, and public service.
+Dr. Jitendra Singh, Hon’ble Minister of State (Independent Charge) for Science & Technology and Earth Sciences, inaugurated India’s 7th Regional Meteorological Centre in Jammu on June 5, 2026. During the event, he highlighted the significant expansion of meteorological infrastructure across Jammu & Kashmir, Ladakh, and Himachal Pradesh, including Doppler Weather Radars, Automatic Weather Stations, and advanced forecasting services, strengthening weather monitoring and disaster preparedness in the region.
+A delegation from the Ministry of Agriculture, Irrigation and Water Development and Regional Climate Resilience Programme, Malawi, visited India Meteorological Department, New Delhi on 13 May 2026. Discussions focused on strengthening collaboration in the field of weather forecasting, disaster preparedness, and climate services between the two countries.
+महत्वपूर्ण लिंक
+डेटा आपूर्ति पोर्टल - मौसम संबंधी डेटा
+एपीआई और सोशल मीडिया के माध्यम से आईएमडी द्वारा दी गयी चेतावनीयां
+हमारी सेवाएं
+वर्षा संबंधी जानकारी
+मानसून संबंधी जानकारी
+चक्रवात संबंधी जानकारी
+कृषि मौसम परामर्शी सेवाएँ
+जलवायु सेवाएँ
+शहरी मौसम विज्ञान सेवाएँ
+विमानन सेवाएँ
+जलवायु खतरा और भेद्यता एटलस
+भू-स्थानिक सेवाएँ
+पूर्वानुमान
+लघु से मध्यम श्रेणी मॉडल मार्गदर्शन
+विस्तारित रेंज आउटलुक
+ऋृतुनिष्ठ पूर्वानुमान
+मात्रात्मक वर्षा का पूर्वानुमान
+अखिल भारतीय मौसम पूर्वानुमान बुलेटिन
+5 दिवसीय उपखंडीय वर्षा पूर्वानुमान
+5 दिवसीय जिलावार वर्षा पूर्वानुमान
+चक्रवात के मार्ग का इंटरएक्टिव ट्रैक पूर्वानुमान
+नवीनतम सी.ए.पी. अलर्ट
+मुंबई
+बीच-बीच में हल्की बारिश
+30.0 ° से
+दिशा उपलब्ध नहीं 25.9 कि.मी./घंटा
+75 %
+बेंगलुरु
+आम तौर पर बादल छाए आसमान
+22.0 ° से
+दक्षिण-पश्चिमी 7.4 कि.मी./घंटा
+88 %
+चेन्नई
+कुहासा
+33.0 ° से
+दिशा उपलब्ध नहीं 22.2 कि.मी./घंटा
+67 %
+हैदराबाद
+धुंध
+27.0 ° से
+पश्चिमी 25.9 कि.मी./घंटा
+74 %
+कोलकाता
+27.4 ° से
+शांत 0 कि.मी./घंटा
+97 %
+अहमदाबाद
+29.0 ° से
+दक्षिण-दक्षिण-पश्चिमी 16.7 कि.मी./घंटा
+66 %
+पुणे
+पूर्ण रूप से बादल छाए आसमान
+23.6 ° से
+92 %
+दिल्ली
+लगातार मध्यम बारिश
+26.2 ° से
+पश्चिम-दक्षिण-पश्चिमी 5.6 कि.मी./घंटा
+100 %
+शहरी मौसम विज्ञान सेवाएं
+अल्प से मध्यम अवधि के मॉडल दिशानिर्देश
+दीर्घकालीन मॉडल दिशानिर्देश
+मौसमी पूर्वानुमान
+मात्रात्मक वर्षा पूर्वानुमान
+नवीनतम सीएपी अलर्ट
+ऐतिहासिक डेटा से संबंधित क्वेरी के लिए
+1. श्री रंजन फुकन, वैज्ञानिक डी संपर्क नंबर: +91 9435669264 , ranjan.phukan[at]imd[dot]gov[dot]in
+विशेष उत्पाद एवं पूर्वानुमान
+चक्रवात | मानसून | उपग्रह
+रडार | वर्षा | कृषि मौसम संबंधी सलाह
+मौसम : | | चलचित्र
+मेघदुत एग्रो : | | चलचित्र
+दामीनी लाईटनिंग : |
+उमंग : |
+मौसम संबंधी - डेटा सेवा पोर्टल
+विविध
+नागरिक चार्टर | संगोष्ठी
+अक्सर पूछे जाने वाले प्रश्न
+आरटीआई | प्रतिक्रिया | आंतरिक शिकायत समिति
+यौन उत्पीड़न शिकायत पोर्टल
+मौसम वीडियो | जीकेएमएस न्यूज़लेटर
+डेटाबेस लॉगिन | एडमिन लॉगिन
+निविदाएं | डब्ल्यूएमओ भर्ती/सूचनाएं | परिपत्र
+भर्ती | अनुकंपा नियुक्ति
+अचल संपत्ति वापसी
+अस्वीकरण | साइटमैप
+हमसे संपर्क करें
+मौसम विज्ञान महानिदेशक कार्यालय भारतीय मौसम विज्ञान विभाग (आईएमडी) मौसम भवन, लोधी रोड नई दिल्ली - 110003
+मीडिया के लिए मौसम संबंधी प्रश्न
+प्रश्न पूछने का समय: सुबह 10:00 बजे से शाम 5:00 बजे तक
+1. डॉ. नरेश कुमार, वैज्ञानिक - एफ संपर्क नंबर: +91 9968680077 , naresh.nhac[at]gmail[dot]com 2. डॉ. अखिल श्रीवास्तव, वैज्ञानिक - डी संपर्क नंबर: +91 8285281968 , akhil.srivastava[at]imd[dot]gov[dot]in
+© कॉपीराइट 2026, आईएसएसडी टीम द्वारा विकसित, भारत मौसम विज्ञान विभाग पृथ्वी विज्ञान मंत्रालय, नई दिल्ली, भारत
+
+===== SOURCE [weather] IMD Chennai (RMC) https://mausam.imd.gov.in/chennai/ =====
+NAME: IMD Chennai (RMC) | CATEGORY: Weather | TYPE: Govt HTML | USABILITY: Medium
+NOTES: 7-day forecast + warnings + rainfall
+TITLE: RMC Chennai
+India Meteorological Department RMC Chennai
+Skip to main content (press enter)
+Warnings
+Subdivision Wise District Wise
+Nowcast
+District Wise Station Wise
+Weather Observations
+Daily AWS
+Specialised Forecast Port Warning Highway Forecast City Forecast Monsoon Forecast Cyclone
+Port Warning
+Highway Forecast
+City Forecast
+Monsoon Forecast
+Cyclone
+Chennai
+22.2 km/h
+Sunrise: 05:56 (IST)
+Sunset: 18:35 (IST)
+Moonrise: --:-- (IST)
+Moonset: 12:19 (IST)
+Satellite Radar SatelliteWithLightning
+Radar SatelliteWithLightning
+Radar
+SatelliteWithLightning
+Weather over Tamilnadu, Puducherry & Karaikal
+Daily Weather Bulletin English | Tamil | Hindi
+Rainfall 24 Hours | Daily Graph | Seasonal | Districtwise | Warnings | IBF
+Agromet State Bulletin | Block Level
+Warnings Fishermen Warning
+Warnings Thunderstorm Warning
+Report Coastal Bulletin
+Weekly Weather Summary Current Week | Previous Weeks
+Monthly Weather Summary
+Extended Range Forecast
+Chennai City Weather Nowcast | Forecast_7days | IBF
+Urban Meteorological Services
+Climate Extremes
+Regional Weather Forecast & Warnings
+Regional Daily Weather Report Today's | Previous Days
+7 Days Forecast & Warnings
+24 Hours Rainfall Forecast English | Tamil | Hindi
+Reports Monsoon
+Other Services
+Cyclone Warning Research Centre About Us | Track Atlas | Rainfall Atlas | Publications
+Numerical Weather Prediction | Satellite
+Public Observations Portal Enter Observations
+Miscellaneous
+IMS Chennai Chapter
+Forecast Terminology-Tamil
+Pavandooth Hindi Magazine
+IMD-Mausam Journal
+Do's and Dont's
+Azadi Ka Amrit Mohatsav
+IMD150 - RMC80
+Geospatial Services
+Weather at your location - Mausamgram
+Weather over States
+MC Thiruvananthapuram
+MC Bengaluru
+MC Hyderabad
+MC Amaravati
+CWC Visakhapatnam
+Regional Websites
+IMD New Delhi
+IMD Pune
+IMD AWS
+RMC Mumbai
+RMC Kolkata
+RMC Nagpur
+RMC Guwahati
+Intra-IMD portal
+RMC New Delhi
+Current Weather across Major Cities
+Chennai-Nungambakkam
+28.9°
+Calm 0km/h
+80%
+Kanyakumari
+25.4°
+West-southwesterly 18.5km/h
+93%
+VISHAKHAPATNAM
+30.6°
+Southwesterly 9.3km/h
+81%
+Bengaluru-City
+22°
+Southwesterly 7.4km/h
+88%
+Hyderabad
+27°
+Westerly 25.9km/h
+74%
+Madurai
+35°
+44%
+Thiruvananthapuram-City
+West-northwesterly 3.7km/h
+95%
+
+===== SOURCE [weather] IMD Chennai Urban Services https://mausam.imd.gov.in/chennaiums/ =====
+NAME: IMD Chennai Urban Services | CATEGORY: Weather | TYPE: Govt HTML | USABILITY: Medium
+NOTES: City urban meteorological services
+TITLE: Chennai | IMD Urban Meteorological Services
+Urban Meteorological Services for Chennai
+India Meteorological Department
+Ministry of Earth Sciences
+Government of India
+Interactive Display of weather and Thunderstorm warnings
+Chennai
+Nungambakkam
+28.9 °C
+Calm 0 km/h
+80 %
+Alandur Bus Depot
+NA °C
+4.3 km/h
+47.6 %
+Arumbakkam
+34.1 °C
+Calm 5.4 km/h
+58.2 %
+Kodungaiyur
+33.9 °C
+4.8 km/h
+66.2 %
+Manali
+4.6 km/h
+41.8 %
+Manali Village
+Calm NA
+NA %
+Perungudi
+2.4 km/h
+55.2 %
+Royapuram
+29.2 °C
+3.1 km/h
+60.0 %
+Velachery Res Area
+© Copyright 2022, Develop by IT Team IMD, India Meteorological Department Ministry of Earth Sciences, New Delhi, India
+
+===== SOURCE [weather] IMD Bengaluru (Met Centre) https://mausam.imd.gov.in/bengaluru/ =====
+NAME: IMD Bengaluru (Met Centre) | CATEGORY: Weather | TYPE: Govt HTML | USABILITY: Medium
+NOTES: City forecast + warnings
+TITLE: Karnataka
+India Meteorological Department Met Centre Raipur
+Skip to main content (press enter)
+Warnings
+Subdivision Wise District Wise
+Nowcast
+District Wise Station Wise
+Weather Observations
+Daily AWS
+Forecast City Forecast Bengaluru Districts District Forecast (English) National Forecast Extended Range Forecast Impact Based Forecast Highway Forecast Tourism Forecast Twin City Mangaluru
+City Forecast
+Bengaluru Districts
+District Forecast (English)
+National Forecast
+Extended Range Forecast
+Impact Based Forecast
+Highway Forecast
+Tourism Forecast
+Twin City
+Mangaluru
+Bengaluru
+Southwesterly 7.4 km/h
+Sunrise: 06:06 (IST)
+Sunset: 18:45 (IST)
+Moonrise: 00:00 (IST)
+Moonset: 12:30 (IST)
+Our Services
+Weather Reports Daily (EN) | Daily (KN) | Daily (HN) | Weekly
+Agriculture Eng Agro Advisory | Value Added Forecast | Block Level Forecast | NKAFC Bulletin
+Climatology Bengaluru | Extremes
+Radar & Satellite Radar | Satellite Products
+FMO QPF Bulletin | HM Bulletin
+Kannada Bulletins Kannada Agro Bulletin
+Rainfall Statistics Daily | Cumulative
+Geospatial Weather Services Geospatial Services | Mausamgram
+Current Weather across Major Cities
+Bengaluru-City
+22°
+Southwesterly 7.4km/h
+88%
+29°
+24.1km/h
+84%
+Chitradurga
+24°
+Westerly 22.2km/h
+87%
+Gadag
+23.8°
+Southwesterly 5.6km/h
+89%
+Honnavar
+27.2°
+Westerly 3.7km/h
+90%
+Kalaburgi
+25.4°
+Westerly 5.6km/h
+Belagavi
+West-northwesterly 22.2km/h
+94%
+Karwar
+27.8°
+Calm 0km/h
+92%
+
+===== SOURCE [weather] IMD Bengaluru Urban Services https://mausam.imd.gov.in/bengalurums/ =====
+NAME: IMD Bengaluru Urban Services | CATEGORY: Weather | TYPE: Govt HTML | USABILITY: Medium
+NOTES: City urban meteorological services
+TITLE: Bengaluru | IMD Urban Meteorological Services
+Urban Meteorological Services for Bengaluru
+India Meteorological Department
+Ministry of Earth Sciences
+Government of India
+Interactive Display of weather and Thunderstorm warnings
+Bengaluru
+Bengaluru-City
+22.0 °C
+Southwesterly 7.4 km/h
+88 %
+Bengaluru (HAL)
+25.0 °C
+West-southwesterly 20.4 km/h
+78 %
+Bapuji Nagar
+28.5 °C
+29.0 %
+BTM Layout
+NA °C
+Calm NA
+NA %
+KadabesanaHalli
+City Railway Station
+Hebbal
+28.9 °C
+Calm 1.3 km/h
+42.8 %
+Hombegowda Nagar
+28.6 °C
+50.0 %
+Jayanagar
+26.3 °C
+57.8 %
+Peenya
+62.6 %
+SaneguravaHalli
+24.0 °C
+Calm 0.2 km/h
+43.6 %
+SilkBoard
+28.0 °C
+3.7 km/h
+98.0 %
+© Copyright 2022, Develop by IT Team IMD, India Meteorological Department Ministry of Earth Sciences, New Delhi, India
+
+===== SOURCE [weather] IMD Pune https://www.imdpune.gov.in/ =====
+NAME: IMD Pune | CATEGORY: Weather | TYPE: Govt HTML | USABILITY: Medium
+NOTES: Climate + long-range/monsoon outlook
+TITLE: Climate Research & Services, Pune
+Data Service Portal - For Meteorological Data
+Other Services
+Pune
+29.1 o C 22.4 o C
+0.0 mm
+Mumbai
+30.5 o C 24.8 o C
+New Delhi
+32.6 o C 26.6 o C
+Kolkata
+30.6 o C 26.7 o C
+Chennai
+38 o C 24.4 o C
+Pune City Forecast
+दैनंदिन हवामान वृतांत
+06.14 am 07.07 pm
+MAUSAM : | |
+Meghdoot Agro: | |
+UMANG : |
+Damini Lightning : |
+Weather Video :
+History
+Mandate
+People
+Frequently Asked Questions
+Monsoon (FAQs)
+General Information for Visitors
+हिंदी पटल
+Tenders
+RTI
+© Copyright Ministry of Earth Sciences, New Delhi, India | Disclaimer Designed, Developed and maintained by IT Cell, O/o Climate Research & Services, Pune

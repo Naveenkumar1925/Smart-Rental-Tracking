@@ -1,0 +1,36 @@
+==============================================================
+ SITE S002 - Tambaram, Chennai
+==============================================================
+
+OWNED EQUIPMENT (product id | qty | eng h | idle h | downtime h)
+--------------------------------------------------------------
+  320            x2     5.3     1.2      17.5  <-- under-used
+  MD6200         x2    12.2     8.0       3.8
+  239D3          x2     1.2    13.0       9.8  <-- under-used
+  D5             x1     4.5    10.7       8.8  <-- under-used
+  120            x4     6.8    10.6       6.6  <-- under-used
+  313-GC         x3     8.2     6.8       9.0  <-- under-used
+
+LENT OUT TO OTHER SITES (owner-approved, still owned here)
+--------------------------------------------------------------
+  320            -> S006 (Sholinganallur (OMR), Chennai) | avail 17.1 h | travel 0.4 h
+  320            -> S001 (Ambattur, Chennai) | avail 17.0 h | travel 0.5 h
+  239D3          -> S006 (Sholinganallur (OMR), Chennai) | avail 9.4 h | travel 0.4 h
+  239D3          -> S001 (Ambattur, Chennai) | avail 9.3 h | travel 0.5 h
+  D5             -> S006 (Sholinganallur (OMR), Chennai) | avail 8.4 h | travel 0.4 h
+  D5             -> S001 (Ambattur, Chennai) | avail 8.3 h | travel 0.5 h
+  120            -> S006 (Sholinganallur (OMR), Chennai) | avail 6.2 h | travel 0.4 h
+  120            -> S001 (Ambattur, Chennai) | avail 6.1 h | travel 0.5 h
+  313-GC         -> S006 (Sholinganallur (OMR), Chennai) | avail 8.6 h | travel 0.4 h
+  313-GC         -> S001 (Ambattur, Chennai) | avail 8.5 h | travel 0.5 h
+
+AVAILABLE TO BORROW FROM NEARBY SITES
+  (available hours = owner downtime - travel time)
+--------------------------------------------------------------
+  CB10           x1   from S001 (Ambattur, Chennai) | available 18.0 h | travel 0.5 h | owner downtime 18.5 h
+  336            x1   from S001 (Ambattur, Chennai) | available 17.0 h | travel 0.5 h | owner downtime 17.5 h
+  239D3          x1   from S001 (Ambattur, Chennai) | available 15.9 h | travel 0.5 h | owner downtime 16.4 h
+  320            x2   from S006 (Sholinganallur (OMR), Chennai) | available 15.8 h | travel 0.4 h | owner downtime 16.2 h
+  MD6310         x4   from S006 (Sholinganallur (OMR), Chennai) | available 7.6 h | travel 0.4 h | owner downtime 8.0 h
+  8000           x4   from S006 (Sholinganallur (OMR), Chennai) | available 15.1 h | travel 0.4 h | owner downtime 15.5 h
+  D5             x4   from S006 (Sholinganallur (OMR), Chennai) | available 14.1 h | travel 0.4 h | owner downtime 14.5 h

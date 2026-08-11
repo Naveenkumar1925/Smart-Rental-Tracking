@@ -1,0 +1,64 @@
+{
+  "engine": "heuristic",
+  "weather_outlook": "ADVERSE (adverse cues=16, favorable=2) -> demand multiplier 0.7",
+  "future_plans": "construction 60% / mining 40%, scale signals=19",
+  "comparison": "Plans set per-category need; weather (ADVERSE) scales it by 0.7x for the near term.",
+  "demand": [
+    {
+      "category": "Drill",
+      "model": "MD6250",
+      "recommended_units": 10,
+      "priority": "high",
+      "reason": "plan signals ['drill', 'exploration', 'mineral']; mining emphasis; weather ADVERSE"
+    },
+    {
+      "category": "Off-Highway Truck",
+      "model": "770",
+      "recommended_units": 6,
+      "priority": "high",
+      "reason": "plan signals ['mine']; mining emphasis; weather ADVERSE"
+    },
+    {
+      "category": "Grader",
+      "model": "120",
+      "recommended_units": 5,
+      "priority": "medium",
+      "reason": "plan signals ['road']; construction emphasis; weather ADVERSE"
+    },
+    {
+      "category": "Compactor",
+      "model": "CB10",
+      "recommended_units": 3,
+      "priority": "medium",
+      "reason": "plan signals ['road']; construction emphasis; weather ADVERSE"
+    },
+    {
+      "category": "Excavator",
+      "model": "320",
+      "recommended_units": 3,
+      "priority": "medium",
+      "reason": "plan signals ['foundation', 'infrastructure']; construction/mining emphasis; weather ADVERSE"
+    },
+    {
+      "category": "Skid Steer Loader",
+      "model": "216B3",
+      "recommended_units": 2,
+      "priority": "low",
+      "reason": "plan signals baseline; construction emphasis; weather ADVERSE"
+    },
+    {
+      "category": "Dozer",
+      "model": "D5",
+      "recommended_units": 2,
+      "priority": "low",
+      "reason": "plan signals baseline; construction emphasis; weather ADVERSE"
+    },
+    {
+      "category": "Dragline",
+      "model": "8200",
+      "recommended_units": 2,
+      "priority": "low",
+      "reason": "plan signals baseline; mining emphasis; weather ADVERSE"
+    }
+  ]
+}
