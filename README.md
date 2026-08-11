@@ -68,6 +68,52 @@ example above reports **37.24% — SEVERE**.
 
 ---
 
+## Multi-view capture
+
+Each machine is captured from six angles at check-in (baseline) and again at
+check-out, so damage on any face can be caught. The pairs below show the
+check-in baseline next to the check-out image for every view.
+
+<table>
+  <tr>
+    <th>View</th>
+    <th>Before (check-in)</th>
+    <th>After (check-out)</th>
+  </tr>
+  <tr>
+    <td align="center"><b>Front</b></td>
+    <td><img src="truck/front/before.png" width="320" alt="Truck front before"/></td>
+    <td><img src="truck/front/after.png" width="320" alt="Truck front after"/></td>
+  </tr>
+  <tr>
+    <td align="center"><b>Back</b></td>
+    <td><img src="truck/Back/before.png" width="320" alt="Truck back before"/></td>
+    <td><img src="truck/Back/after.png" width="320" alt="Truck back after"/></td>
+  </tr>
+  <tr>
+    <td align="center"><b>Left</b></td>
+    <td><img src="truck/left/Gemini_Generated_Image_flva8uflva8uflva%281%29.png" width="320" alt="Truck left before"/></td>
+    <td><img src="truck/left/after.png" width="320" alt="Truck left after"/></td>
+  </tr>
+  <tr>
+    <td align="center"><b>Right</b></td>
+    <td><img src="truck/right/Gemini_Generated_Image_7bfd0p7bfd0p7bfd.png" width="320" alt="Truck right before"/></td>
+    <td><img src="truck/right/after.png" width="320" alt="Truck right after"/></td>
+  </tr>
+  <tr>
+    <td align="center"><b>Top</b></td>
+    <td><img src="truck/top/Gemini_Generated_Image_251a6g251a6g251a.png" width="320" alt="Truck top before"/></td>
+    <td><img src="truck/top/after.png" width="320" alt="Truck top after"/></td>
+  </tr>
+  <tr>
+    <td align="center"><b>Bottom</b></td>
+    <td><img src="truck/Bottom/Gemini_Generated_Image_kut4kekut4kekut4.png" width="320" alt="Truck bottom before"/></td>
+    <td><img src="truck/Bottom/after.png" width="320" alt="Truck bottom after"/></td>
+  </tr>
+</table>
+
+---
+
 ## Modules
 
 | File | What it does |
