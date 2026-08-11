@@ -92,7 +92,7 @@ check-in baseline next to the check-out image for every view.
   </tr>
   <tr>
     <td align="center"><b>Left</b></td>
-    <td><img src="truck/left/Gemini.png" width="320" alt="Truck left before"/></td>
+    <td><img src="truck/left/before.png" width="320" alt="Truck left before"/></td>
     <td><img src="truck/left/after.png" width="320" alt="Truck left after"/></td>
   </tr>
   <tr>
